@@ -2,15 +2,15 @@ name: Actualizar precios
 
 on:
   schedule:
-    # Hora de Lima = UTC-5. Osinergmin sube el Excel cerca de las 4 pm.
-    - cron: "37 21 * * *"   # 4:37 pm Lima
-    - cron: "37 23 * * *"   # 6:37 pm Lima (segundo intento)
+    # Cada hora, en el minuto 10 (Osinergmin actualiza el Excel varias veces al día)
+    - cron: "10 * * * *"
   workflow_dispatch:        # botón "Run workflow" para actualizar a mano
   push:
     branches: [main]
+    paths-ignore: [coords.json]
 
 permissions:
-  contents: read
+  contents: write   # para guardar coords.json (ubicaciones de los grifos)
   pages: write
   id-token: write
 
@@ -21,6 +21,7 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -31,6 +32,14 @@ jobs:
           python-version: "3.12"
       - run: pip install pandas openpyxl
       - run: python actualizar.py
+      - name: Guardar ubicaciones
+        run: |
+          if [ -f coords.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git add coords.json
+            git diff --cached --quiet || (git commit -m "Actualizar ubicaciones de grifos" && git push)
+          fi
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
