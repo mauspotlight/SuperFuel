@@ -1,0 +1,6587 @@
+{
+"100012": {
+"dir": "AV. LAS LOMAS DE CARABAYLLO (VÍA PERIURBANA TRAMO I-C), MZ. A, LOTE 01 - ASOCIACIÓN AGROPECUARIA LOS PALOMARES",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"100048": {
+"dir": "AV. 1 DE MAYO MZ. E LT 32-33 1ER SECTOR COOP. VIV. VIRGEN DE COCHARCAS",
+"ll": [
+-12.193096,
+-76.945441
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"100155": {
+"dir": "AV. NICOLAS ARRIOLA N° 710, URB. SANTA CATALINA",
+"ll": [
+-12.09008,
+-77.020481
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"100232": {
+"dir": "AV. PAUL POBLET, MZ. \"C\" SUB LOTE 1-A, HUERTO DE PACHACAMAC",
+"ll": [
+-12.211714,
+-76.870652
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"101467": {
+"dir": "CALLE TACNA ESQUINA CON CALLE ABANCAY MZ. 77, LOTES 1 Y 2, AA.HH. SANTA ROSA",
+"ll": [
+-11.830194,
+-77.109368
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"101850": {
+"dir": "SECTOR 1 GRUPO 25A - MZ. I, LT. 1",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"104256": {
+"dir": "AV. LAS TORRES MZ. D LOTE 14, URB. ALAMEDA DE HUACHIPA",
+"ll": [
+-12.01399,
+-76.901261
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"104367": {
+"dir": "LOTE 2B, LA RINCONADA PAMPLONA ALTA",
+"ll": [
+-12.155392,
+-76.972444
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"104494": {
+"dir": "AV. NICOLAS AYLLON Nº 3620, CARRETERA CENTRAL ESQUINA CON AV. ATE",
+"ll": [
+-12.063015,
+-76.983061
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"104953": {
+"dir": "AV. LIMA N° 2000, P.J. VILLA POETA JOSE GALVEZ PARCELA B MZ. 159, LOTE 4",
+"ll": [
+-12.214391,
+-76.906603
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"105599": {
+"dir": "AV. CARAPONGO Y CALLE LOS ROBLES, MZ. D, LOTE 1  URB. POPULAR NUEVO HORIZONTE CARAPONGO",
+"ll": [
+-12.00358,
+-76.876841
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"106767": {
+"dir": "AV. VENEZUELA ESQUINA CON AV. RIVA AGUERO",
+"ll": [
+-12.063007,
+-77.10132
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"107193": {
+"dir": "AV. MEXICO NRO. 295 ESQUINA CON AV. MANCO CAPAC",
+"ll": [
+-12.076773,
+-77.027492
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"107381": {
+"dir": "AV. 5 DE AGOSTO CON CALLE LOS ANGELES MZ. A LOTES 1, 2 Y 23 DEL PROGRAMA DE VIVIENDA Y COMERCIO SAN VALENTIN DE HUACHIPA",
+"ll": [
+-11.983815,
+-76.93955
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"107602": {
+"dir": "LOTES 7 Y 8 DE PUNCHAUCA, CAUDIVILLA Y ANEXO CONCON Y HUACOY ( AV. TUPAC AMARU KM. 22.50)",
+"ll": [
+-11.794993,
+-76.989292
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"107664": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 14",
+"ll": [
+-12.189916,
+-76.973058
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"108311": {
+"dir": "MALECON SAN MARTIN - MANZANA 50. LOTES 6, 7, 8, 51 Y 52. SECTOR BALNEARIO",
+"ll": [
+-12.483603,
+-76.796295
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"108688": {
+"dir": "AV. SAN JUAN DE DIOS CON CALLE 7 MZ- C1- LTE-1 URB. LOTIZACION INDUSTRIAL",
+"ll": [
+-11.864221,
+-77.067622
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"108709": {
+"dir": "AV. LEONCIO PRADO Nº 344 - ZAPALLAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"109801": {
+"dir": "AV. UNIVERSITARIA NORTE N° 8290 (MZ. P, LT 1-38) URB. SAN AGUSTIN 2DA. ETAPA",
+"ll": [
+-11.955677,
+-77.060403
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"110651": {
+"dir": "AV. SAN LUIS N° 707 ESQUINA CON CALLE AUGUSTO DURAND URB. SAN LUIS",
+"ll": [
+-12.078568,
+-76.998912
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"110659": {
+"dir": "AV. LAS LOMAS DE CARABAYLLO MZ- B LTES 14,15 Y 16 - PROGRAMA DE VIVIENDA SAN JOSE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"111552": {
+"dir": "ASOCIACION DE PROPIETARIOS SEÑOR DE HUANCA MZ. D, LOTE 1",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"112178": {
+"dir": "AV. FRANCISCO PIZARRO Nº 770, 772, 774, 776, 778, 780, 782, 784 Y 786 ESQ. CON AV. FELIPE ARANCIBIA",
+"ll": [
+-12.037953,
+-77.035513
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"113128": {
+"dir": "AV. LOS INCAS CON AV. SINCHI ROCA, MZ. A, LT. 18",
+"ll": [
+-11.910638,
+-77.055446
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"114073": {
+"dir": "AV. NICOLAS ARRIOLA N° 1003",
+"ll": [
+-12.09008,
+-77.020481
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"115245": {
+"dir": "CALLE LIMA SUR N° 1529 (EX CARRETERA CENTRAL) PARTE DEL LOTE 43 DEL FUNDO MOYOPAMPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"115931": {
+"dir": "AV. UNIVERSITARIA S/N, MZ. A  LOTES 15 Y 16 PROGRAMA DE VIVIENDA LAS MERCEDES",
+"ll": [
+-11.873738,
+-77.023226
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"116182": {
+"dir": "CARRETERA CENTRAL KM 14.5",
+"ll": [
+-12.014739,
+-76.88463
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"116243": {
+"dir": "AV. IQUITOS 967-969,973-979,983-989-993-997-999 Y AV. ISABEL LA CATÓLICA 201-203,221-229,233",
+"ll": [
+-12.06191,
+-77.029219
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"116395": {
+"dir": "AV. CARAPONGO MZ. H LOTE 1-2, URB. LOS TULIPANES DE CARAPONGO",
+"ll": [
+-12.00358,
+-76.876841
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"116829": {
+"dir": "CARRETERA CENTRAL KM 14.800 ESQUINA CON AV. GLORIA - GLORIA ALTA",
+"ll": [
+-11.995374,
+-76.830708
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"116929": {
+"dir": "AV. REPUBLICA DE PANAMA 4909-4917 MZ E LT 13",
+"ll": [
+-12.101653,
+-77.019156
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"117590": {
+"dir": "PREDIO RURAL SAN PEDRO LOTE UNICO, VALLE DE LURIN, ANTIGUA PANAMERICANA SUR, KM. 34.5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"118240": {
+"dir": "AV. UNIVERSITARIA CRUCE CON AV. MANUEL PRADO MZ. B LOTE 04,05,06,07 Y 08 PROGRAMA DE VIVIENDA SANTA ROSA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"118280": {
+"dir": "AV. SANTA ROSA MZ. D, LOTE 01 - ASOCIACION DE PROPIETARIOS LOS PARRALES DE PUENTE PIEDRA",
+"ll": [
+-11.87488,
+-77.077943
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"118693": {
+"dir": "MZ. A LOTE 1, URB. LOS TULIPANES",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"118799": {
+"dir": "LOTE25,MZ.N¿, AGRUPAMIENTO PACHACAMAC,SECTOR SEGUNDO,PARCELAA/BARRIO1(ALT.INTERSECC DE LAS AV.SEPARADORA INDUSTRIAL Y AV.PROLONGACION UNIVERSITARIA)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"120987": {
+"dir": "AV. LAS TORRES MZ. F, SUB LOTE 6A, ESQUINA CON AV. HUACHIPA, LOTIZACIÓN LA CAPITANA - SANTA MARÍA DE HUACHIPA",
+"ll": [
+-12.01399,
+-76.901261
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"121053": {
+"dir": "SECTOR 1, GRUPO 22, MZ. I, LOTE 01",
+"ll": [
+-12.193832,
+-76.950105
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"121126": {
+"dir": "AV. ANDRES AVELINO CACERES LT 15, ZONA H, PJ PROYECTO ESPECIAL HUAYCAN",
+"ll": [
+-12.001849,
+-76.832691
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"121358": {
+"dir": "AV. CHOSICA-CARRETERA CAJAMARQUILLA, PARCELA 89, LOTE 89-B, URB. CAJAMARQUILLA, SEGUNDA ETAPA, ESQUINA CALLE 03.",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"121965": {
+"dir": "AV. LAS TORRES Y ESQ. AV. CAJAMARQUILLA (AV. MEDIA LUNA) PARCELA MEDIA LUNA MZ. E LOTE 7",
+"ll": [
+-12.01399,
+-76.901261
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"122274": {
+"dir": "AV. ALCIDES VIGO, ESQUINA CON CALLE NORUEGA, URB. COOPIP",
+"ll": [
+-11.994667,
+-77.099325
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"122346": {
+"dir": "AV. ALFREDO MENDIOLA N° 6200, URB. INDUSTRIAL MOLITALIA",
+"ll": [
+-11.966795,
+-77.06815
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"122618": {
+"dir": "PARCELA 6 COOPERATIVA AGRARIA MARIA PARADO DE BELLIDO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"123168": {
+"dir": "MZ. A, LOTES 65, 66, 1, URBANIZACIÓN TUNGASUCA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"123546": {
+"dir": "AV. LOS PROCERES ESQ. CON AV. CONFRATERNIDAD MZ D2 LOTES 29-41 URB. SANTA ANA",
+"ll": [
+-11.96989,
+-77.08026
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"123796": {
+"dir": "AV. UNIVERSITARIA N° 100  URB. SANTA ISABEL",
+"ll": [
+-11.869823,
+-77.021411
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"123805": {
+"dir": "AV. INDUSTRIAL, MZ. F LOTE 5, ESQUINA AV. SAN JUAN, URB. LAS VEGAS",
+"ll": [
+-11.864221,
+-77.067622
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"123985": {
+"dir": "CARRETERA CENTRAL SUB PARCELA 8A DE LA PARCELA N°10015 EX FUNDO PARIACHI MZ. A LT. 1 Y 2, PROGRAMA DE VIVIENDA 'LAS PONCIANAS DE PARIACHI'",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"124098": {
+"dir": "AV. LA MOLINA N° 448, MZ. H2, LOTE 07, URB. LOTIZACION INDUSTRIAL EL ARTESANO",
+"ll": [
+-12.060143,
+-76.961669
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"124260": {
+"dir": "AV. SAN MARTIN DE PORRAS MZ CL 1 LOTE 18-19 CANTO GRANDE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"124604": {
+"dir": "MZ. A LT 25 URB. INDUSTRIAL INFANTAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"125276": {
+"dir": "AV. LOS CASTILLOS Nº 340, URB. INDUSTRIAL SANTA ROSA",
+"ll": [
+-12.058025,
+-76.971315
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"125601": {
+"dir": "AV. REPUBLICA DE CROACIA (ANTES AV. LEONCIO PRADO) CON AV. COPACABANA KM 35 DE LA PANAMERICANA. NORTE MZ. N LT 186",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"125695": {
+"dir": "AV. HEROES DEL ALTO CENEPA, LTE 27 (AUTOPISTA TRAPICHE - CHILLON)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"125850": {
+"dir": "MZ. N LOTE 9 PARCELACION SEMI RUSTICA DEL FUNDO CANTO GRANDE 2DA ETAPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"125855": {
+"dir": "AV. DEFENSORES DEL MORRO (EX AV. HUAYLAS) N° 1391 H.U. EL MORRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"126091": {
+"dir": "AV. LA MOLINA N° 448",
+"ll": [
+-12.060143,
+-76.961669
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"126097": {
+"dir": "LOTIZACION SEMI RUSTICA LEONCIO PRADO LOTE 108 MZ I",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"127967": {
+"dir": "ESQUINA AV. CORDILLERA NEGRA Y JR. VOLCAN COROPUNA MZ E-13, LT. 5, URB. LAS DELICIAS DE VILLA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"128675": {
+"dir": "ALFREDO MENDIOLA N° 700 - 704 URB. PALAO",
+"ll": [
+-12.023094,
+-77.058422
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"128859": {
+"dir": "AV. UNIVERSITARIA CUADRA 51 ESQUINA CON CALLE A",
+"ll": [
+-11.96538,
+-77.073162
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"129641": {
+"dir": "SUB LOTE 1-A QUE FORMO PARTE DEL LOTE 1 DE LA MZ F, URB. CANTO GRANDE UNIDAD 12",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"130599": {
+"dir": "AV. RETAMAL S/N MZ. I LT. 10 AL 15 ASOCIACION DE VIVIENDA ECOLOGICA-AVIECO QUEBRADA RETAMAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"130775": {
+"dir": "AV. LA PAZ Y CALLE GRAN MARISCAL AGUSTIN GAMARRA MESSIA (ANTES JIRON) DENOMINADO LOTE 246, SUBLOTE A,B,C Y D DE LA MZ. 14 URBANIZACIÓN MIRAMAR..",
+"ll": [
+-12.088531,
+-77.086813
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"131174": {
+"dir": "MZ 1-B, LOTE 02 SUB PARCELA 1-E (3ERA ETAPA) NUEVA URBANIZACION TORRE BLANCA",
+"ll": [
+-11.889364,
+-77.033913
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"132204": {
+"dir": "AV. NICOLAS ARRIOLA N° 2140 ESQUINA CON AV. SAN LUIS, URBANIZACION SAN LUIS",
+"ll": [
+-12.07246,
+-77.002349
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"132211": {
+"dir": "CARRETERA CENTRAL KM. 22.700",
+"ll": [
+-11.995374,
+-76.830708
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"133099": {
+"dir": "AV. JOSÉ CARLOS MARIATEGUI N° 1184-1292",
+"ll": [
+-12.136396,
+-76.942752
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"133262": {
+"dir": "UNIVERSITARIA S/N CRUCE CON CALLE 2",
+"ll": [
+-11.869823,
+-77.021411
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"134060": {
+"dir": "AV. JOSÉ SACO ROJAS MZ.B LOTE 9 PROGRAMA DE VIVIENDA LAS DALIAS",
+"ll": [
+-11.858213,
+-77.043528
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"134913": {
+"dir": "A.H. PROYECTO INTEGRAL ALIANZA INDUSTRIAL DE LAS LOMAS MZ. C LOTE 5 - SECTOR CRUZ DEL NORTE 1, ZONA BAJA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"135513": {
+"dir": "AV. LURIGANCHO MZ. B LOTE 10 A,B,C,D, E Y SUB LOTE 10 F1",
+"ll": [
+-12.016792,
+-76.99539
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"135731": {
+"dir": "AV. X-5 MZ. G-1 LOTES 5, 6 Y 7 (ANTIGUA PANAMERICANA SUR)",
+"ll": [
+-12.242458,
+-76.889169
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"136355": {
+"dir": "AV. NICOLAS AYLLON (ANTES CARRETERA CENTRAL) PREDIO SEMI RUSTICO PARIACHI PARCELA 10906",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"137568": {
+"dir": "AV. PROLONGACION JUAN LEGAROS S/N ESQ. AV. COPACABANA - URB. LOS CRISANTEMOS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"137879": {
+"dir": "AV. UNIVERSITARIA MZ. G LOTE 9 URB. SANTA ISOLINA",
+"ll": [
+-11.936,
+-77.059701
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"138914": {
+"dir": "COOPERATIVA DE VIVIENDA VILLA DEL MAR N° 104-LADO B, AV 1RO DE MAYO N° 2289 Y N° 2291 Y PSJ. VILLA N° 194 Y 196",
+"ll": [
+-12.029637,
+-77.000822
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"13930": {
+"dir": "AV. ANGAMOS ESTE N° 1159 (ANTES: AV. PRIMAVERA N° 1159), URB. VALLE HERMOSO DE MONTERRICO",
+"ll": [
+-12.110626,
+-76.979793
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"139411": {
+"dir": "PARCELACIÓN HUERTOS DE VILLENA MZ. B LT. 4",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"141548": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 19.8",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"141845": {
+"dir": "JR. STA. FRANCISCA DE ROMANA 615 DPTO 302 URB. PANDO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"142077": {
+"dir": "INTERSECCION DE LA AV. LOS HALCONES Y LA CALLE SAN LUIS DE NIEVERIA LOTE 3B",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"142258": {
+"dir": "MZ 'G' LTE 7 ALT. KM 33.50 CARRETERA LIMA - CANTA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"142298": {
+"dir": "URB. SANTA MARIA 5TA ETAPA MZ. C-1 LOTE 01",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"142686": {
+"dir": "LOTE 1 MZ. A-I ASOCIACION URB. POPULAR LOS CEDROS DE VILLA, SECTOR CAJAMARQUILLA, ESQUINA AV. CAJAMARQUILLA Y CALLE LOS CEDROS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"142938": {
+"dir": "AV. MEXICO N° 2383 INTERSECCION CON JR. VIRREY LA SERNA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"144228": {
+"dir": "JR. LAS RETAMAS MZ. A LOTE 01 COOPERATIVA DE VIVIENDA LAS PIRAMIDES",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"144359": {
+"dir": "AV. VENEZUELA N° 3300",
+"ll": [
+-12.057546,
+-77.06885
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"144374": {
+"dir": "PANAMERICANA SUR MZ. P, LOTES 18, 19, 20, COOPERATIVA DE VIVIENDA AMERICA S.R.LTDA",
+"ll": [
+-12.170824,
+-76.978892
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"144526": {
+"dir": "LOTE 1, CON FRENTE A LA AV. HEROES ALTO CENEPA - EX FUNDO CHACRA CERRO",
+"ll": [
+-11.932861,
+-77.040674
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"144855": {
+"dir": "AV. ALAMEDA N° 180",
+"ll": [
+-11.958563,
+-76.996576
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"14622": {
+"dir": "AV. EVITAMIENTO N° 1904 MZ. B LOTES 1-6, URB. LOS PARQUES DE MONTERRICO",
+"ll": [
+-12.080993,
+-76.978542
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"14627": {
+"dir": "AV. MANUEL PRADO N° 816",
+"ll": [
+-11.869823,
+-77.021411
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14628": {
+"dir": "AV. TUPAC AMARU KM. 22. CARRETERA A CANTA - ASOCIACION LOS ROSALES DE CHILLON",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"14632": {
+"dir": "CALLE CONSTELACION AUSTRAL MZ. D-1 LOTE 10, URB. PARCELACION LA CAMPIÑA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"14633": {
+"dir": "ESQUINA AV. GUARDIA CIVIL N° 702 Y AV. EL SOL, URB. LA CAMPIÑA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"14637": {
+"dir": "ESQUINA DE LA AV. UNIVERSITARIA Y AV. MEXICO CALLE L, MZ. D, LOTE 34, 35 Y 36 URB. SANTA ISOLINA 2DA ETAPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"14643": {
+"dir": "AV. TUPAC AMARU MZ. G LT. 1 Y 2 COOP. VIVIENDA SANTA LIGIA",
+"ll": [
+-11.998118,
+-77.055765
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14645": {
+"dir": "AV. CUBA N° 116 - 120, ESQ. CON AV. ARENALES N° 990",
+"ll": [
+-12.075129,
+-77.041806
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14646": {
+"dir": "AV. FAUSTINO SANCHEZ CARRION Nº 471 ESQUINA CON JR. ESTADOS UNIDOS",
+"ll": [
+-12.093564,
+-77.057196
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14648": {
+"dir": "AV. MELGAREJO, ESQ. CON LA AV. UNIVERSIDAD",
+"ll": [
+-12.068164,
+-76.938428
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"14682": {
+"dir": "AV. JAVIER PRADO ESTE N° 5313 CON AV. LOS FRUTALES",
+"ll": [
+-12.081638,
+-76.968074
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14687": {
+"dir": "AUTOPISTA VENTANILLA MZ. G LT. 100 LEONCIO PRADO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"14691": {
+"dir": "AV. JOSE GALVEZ BARRENECHEA ESQ. CON LA CALLE 32",
+"ll": [
+-12.107449,
+-77.010189
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14693": {
+"dir": "AV. JOSE GALVEZ BARRENECHEA Nº 211 ESQUINA CON AV. DEL PARQUE NORTE Nº 590",
+"ll": [
+-12.097452,
+-77.013041
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14706": {
+"dir": "AV. LA PRINCIPAL MZ. B LOTE 5 URB. INDUSTRIAL CAMPOY",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"14711": {
+"dir": "AV.FRATERNIDAD MZ. K LOTES 7 Y 8 AA.HH. ENRIQUE MONTENEGRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"14715": {
+"dir": "AV. NICOLAS ARRIOLA N° 3191",
+"ll": [
+-12.071465,
+-76.994129
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14722": {
+"dir": "AV. ALFREDO MENDIOLA N° 1395 - URB. LA MILLA",
+"ll": [
+-12.014484,
+-77.060673
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14725": {
+"dir": "AV. PERU N° 3207",
+"ll": [
+-12.031991,
+-77.076751
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"14742": {
+"dir": "AV. SANTIAGO DE SURCO N° 3600 MZ. MI LOTE-3 URB. LOS ROSALES",
+"ll": [
+-12.14834,
+-76.986037
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14754": {
+"dir": "AV. ANGAMOS ESTE N° 2398, URB. LA CALERA DE LA MERCED",
+"ll": [
+-12.113807,
+-77.026513
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"14756": {
+"dir": "ESQ. INCA OLLANTA Y AV. AMAZONAS - P.J JOSE CARLOS MARIATEGUI MZ. 207 L0TE. 10 ETAPA 5 SECTOR VALLECITO ALTO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"14758": {
+"dir": "AV. PACHACUTEC N° 5955",
+"ll": [
+-12.163419,
+-76.954923
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"148220": {
+"dir": "SECTOR 03, GRUPO 19, MZ. M, LOTES. 1, 2, 3 Y 24",
+"ll": [
+-12.216894,
+-76.94915
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"148481": {
+"dir": "AV. LAS TORRES LOTE 13 A, ASOCIACION DIGNIDAD NACIONAL",
+"ll": [
+-12.01399,
+-76.901261
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"14872": {
+"dir": "AV. JOSE CARLOS MARIATEGUI, ESQ. AV. REVOLUCION. SECTOR 3 GRUPO 15 MZ. A, LTS. 12 Y 13",
+"ll": [
+-12.220012,
+-76.931501
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"149727": {
+"dir": "AV. DANIEL ALCIDES CARRION 501 C.P. SANTA CLARA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"150681": {
+"dir": "AV. CANTA CALLAO, PARCELA N° 59 U. C. N° 10668 EX COOPERATIVA DE PRODUCCIÓN VIRGEN DEL ROSARIO, LTDA. N° 77",
+"ll": [
+-11.984003,
+-77.099026
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"151955": {
+"dir": "AV. ANGELICA GAMARRA 848",
+"ll": [
+-12.006898,
+-77.076029
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"15206": {
+"dir": "AV. BRASIL N° 699",
+"ll": [
+-12.066292,
+-77.046125
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"15207": {
+"dir": "ESQ. DE LA AV. SAN LUIS N° 2605 CON SAN BORJA SUR",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"15215": {
+"dir": "AV. 28 DE JULIO N° 904",
+"ll": [
+-12.129515,
+-77.023469
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"15219": {
+"dir": "ESQUINA AV. SALAVERRY Y AV. CUBA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"15223": {
+"dir": "AV. SALAVERRY ESQ. AV. MARIATEGUI",
+"ll": [
+-12.082476,
+-77.045636
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"152285": {
+"dir": "CALLE SAN CARLOS RD, MZ. C LOTE 14",
+"ll": [
+-12.023442,
+-76.905779
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"15233": {
+"dir": "MZ. 2-A , LOTES 1 Y 1A, URBANIZACION PERU PRIMERA ZONA",
+"ll": [
+-11.964788,
+-77.092206
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"15234": {
+"dir": "AV. DEL EJERCITO N° 1295",
+"ll": [
+-12.110499,
+-77.051362
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"15235": {
+"dir": "ESQUINA DE LA AV. VICTOR MALASQUEZ Y CALLE 71 LOS HUERTOS DE MANCHAY",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"153877": {
+"dir": "CARRETERA A CANTA KM 35 (PROLONGACION AVENIDA TUPAC AMARU) COOPERATIVA MARIA PARADO DE BELLIDO PARCELA 29 - CENTRO POBLADO DE CHOCAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"154354": {
+"dir": "AV. LOS CASTILLOS Nº 340, URB. INDUSTRIAL SANTA ROSA",
+"ll": [
+-12.058025,
+-76.971315
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"15491": {
+"dir": "AV. VICTOR MALASQUEZ S/N SECTOR NUEVO PROGRESO, MZ. V, LOTES 130 Y 131 (AHORA SEGÚN CONSTANCIA MUNICIPAL AV. VICTOR MALASQUEZ LTE. 217)",
+"ll": [
+-12.151287,
+-76.870528
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"15496": {
+"dir": "AV. WIESSE SECTOR III, MZ. G8, LOTE 41, PROGRAMA CIUDAD MARISCAL CÁCERES",
+"ll": [
+-11.979668,
+-77.005332
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"155798": {
+"dir": "AV. TOMÁS VALLE, PARCELA F, SECCIÓN C.",
+"ll": [
+-12.009471,
+-77.087951
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"155911": {
+"dir": "SUB LOTE B-1 PARCELA RUSTICA FUNDO. CARRETERA PANAMERICANA SUR ALTURA KM 34.5 Y PLAYA ARICA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"15662": {
+"dir": "INTER. AV. MARIANO CORNEJO N° 1504 - 1508 Y AV. LA ALBORADA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"15664": {
+"dir": "AV. NICOLAS AYLLON N° 1500",
+"ll": [
+-11.975506,
+-76.769752
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"15666": {
+"dir": "AV. GUARDIA CIVIL Nº 203 ESQUINA AV. LOS GORRIONES",
+"ll": [
+-12.178577,
+-76.996184
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"156860": {
+"dir": "AV. PROGRESO ESQ. JR. SIMON BOLIVAR PP. JJ. JOSE CARLOS MARIATEGUI MZ. N 5 LOTE 9 ETAPA SEGUNDA SECTOR SANTA ROSA Y BELEN P03097270",
+"ll": [
+-12.141825,
+-76.944538
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"15700": {
+"dir": "AV. PACHACUTEC N° 3859. ESQUINA CON JR. LA MERCED AA.HH. CESAR VALLEJO",
+"ll": [
+-12.191586,
+-76.93642
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"157131": {
+"dir": "AV. VICTOR MALASQUEZ CHACALTANA KM. 9.8 QUEBRADA MANCHAY Y RETAMAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"15729": {
+"dir": "INTERSECCION AV. CANTOGRANDE Y AV. LAS FLORES DE PRIMAVERA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"15731": {
+"dir": "AV. SANTIAGO DE SURCO Nº 4420",
+"ll": [
+-12.14834,
+-76.986037
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"157764": {
+"dir": "PANAMERICANA NORTE KM 44.5, SUB LOTE A-1 ASOCIACION DE PRODUCTORES INDUSTRIALES PECUARIOS DE ANCÓN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"158170": {
+"dir": "AV. SANTA ROSA S/N Y JR. PARQUINSONIAS MZ. D LOTE 5 URB. CANTO GRANDE UNIDAD 17",
+"ll": [
+-11.989773,
+-76.996736
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"158239": {
+"dir": "AV. ELMER FAUCETT Nº 320, MZ. C, LT. 25, URB. MARANGA V ETAPA",
+"ll": [
+-12.065004,
+-77.097537
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"158833": {
+"dir": "AV. NICOLAS AYLLON N° 10080 (URB. PROGRAMA DE VIVIENDA FHILADELFIA MZ. H LOTE 1)",
+"ll": [
+-12.060196,
+-76.976363
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16028": {
+"dir": "AV. SAMUEL ALCAZAR N° 801",
+"ll": [
+-12.026996,
+-77.033731
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16143": {
+"dir": "ESQ. DE LA AV. VENEZUELA Nº 3343 CON JR. ARISTIDES DEL CARPIO, URB. INDUSTRIAL PALOMINO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"162650": {
+"dir": "AV. LA PAZ N° 194  198 ESQUINA CON CALLE LEONCIO PRADO N° 106",
+"ll": [
+-12.084015,
+-77.096207
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"163381": {
+"dir": "ASENTAMIENTO HUMANO VILLA MARIA DEL TRIUNFO MZ. E - 5 LOTE 5 - SECTOR VILLA MARIA DEL TRIUNFO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"163683": {
+"dir": "AV. CAMINO REAL N° 741, FUNDO CASA HUERTA CHACRA GRANDE UNIDAD CATASTRAL 11657",
+"ll": [
+-11.873029,
+-77.028785
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"164158": {
+"dir": "ESQ. AV. LOS CHANCAS DE ANDAHUAYLAS CON LA AV. ENCALADA MZ. L LOTES 7, 8 Y 9, COOPERATIVA LOS CHANCAS DE ANDAHUAYLAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16439": {
+"dir": "AV. LA MOLINA N° 377, 379, 381, 397 PARCELA SEMIRUSTICA LA MOLINA, MZ. D PARCELA 04",
+"ll": [
+-12.060143,
+-76.961669
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"164479": {
+"dir": "AV. NICOLAS AYLLON (EX CARRETERA CENTRAL) S/N MZ. \"B\" LOTES 5 Y 5-A U.C. 10022",
+"ll": [
+-12.0646,
+-76.990437
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"165829": {
+"dir": "AV. VÍCTOR MALÁSQUEZ MZ. B, LT. 14-15 COMUNIDAD CAMPESINA SANTA ROSA DE MANCHAY",
+"ll": [
+-12.151287,
+-76.870528
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16586": {
+"dir": "AV. FRANCISCO PIZARRO N°1207",
+"ll": [
+-12.037953,
+-77.035513
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16600": {
+"dir": "AV. UNIVERSITARIA SUR N° 546, CON FRENTE CALLE MATERIALES N° 156",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16602": {
+"dir": "AV. PASEO DE LA REPUBLICA INTERSECCION CON LA AV. ANGAMOS N° 498",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16608": {
+"dir": "AV. LAS FLORES Nº 750, URB. SANTA MARIA",
+"ll": [
+-11.956321,
+-76.732396
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16612": {
+"dir": "AV. PETIT THOUARS N° 1148, URB. SANTA. BEATRIZ",
+"ll": [
+-12.080278,
+-77.032056
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16616": {
+"dir": "ESQ. DE LA AV. DEFENSORES DEL MORRO N° 360 CON LA AV. ALFONSO UGARTE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16617": {
+"dir": "AV. JOSE GÁLVEZ BARRENECHEA N° 1146 (ANTES AV. PRINCIPAL) ESQ. CON CALLE 32 URB. VILLA VICTORIA",
+"ll": [
+-12.107449,
+-77.010189
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16618": {
+"dir": "ESQUINA AV. PACHACUTEC Y AV. EL SOL MZ. E LT. 1 PARQUE INDUSTRIAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16619": {
+"dir": "AV. AUGUSTO PEREZ ARANIBAR (ANTES AV. DEL EJERCITO) N° 2199 ESQ. AV. SALAVERRY",
+"ll": [
+-12.100304,
+-77.061938
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16622": {
+"dir": "AV. SIMON BOLIVAR N° 499 ESQUINA CON JR. ISLAS HAWAI",
+"ll": [
+-12.071422,
+-77.072943
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16638": {
+"dir": "AV. 09 DE OCTUBRE Nº 508 (AV. CIRCUNVALACION KM. 6.5), PIEDRA LIZA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16639": {
+"dir": "AV. NICOLAS AYLLON N° 2970",
+"ll": [
+-12.060196,
+-76.976363
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16640": {
+"dir": "AV. DEL PARQUE SUR N° 285 ESQ. AV. GUARDIA CIVIL",
+"ll": [
+-12.102617,
+-77.014978
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16641": {
+"dir": "AV. TOMAS MARSANO ESQUINA CON AV. LOS PROCERES",
+"ll": [
+-12.127987,
+-77.005513
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16642": {
+"dir": "AV. ALFREDO MENDIOLA N° 2000",
+"ll": [
+-11.98201,
+-77.064861
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16643": {
+"dir": "INTERSECCION DE LA AV. SAN BORJA NORTE Y LA AV. AVIACION N° 2680",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16644": {
+"dir": "AV. AREQUIPA Nº 908, ESQUINA CON JR. EMILIO FERNANDEZ - URB. SANTA BEATRIZ",
+"ll": [
+-12.095565,
+-77.031602
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16645": {
+"dir": "AV. SAN LUIS Nº 2480",
+"ll": [
+-12.087916,
+-76.999756
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16649": {
+"dir": "AV. PETIT THOUARS Nº 3305 - 3307",
+"ll": [
+-12.101209,
+-77.030722
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16670": {
+"dir": "INTERSECCION DE LA AV. GENERAL CORDOVA N° 1025 Y AV. HIPOLITO UNANUE N° 370.",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16671": {
+"dir": "JR. SARGENTO ENRIQUE VILLAR 308 MZ. 12-B LT. 06 URB. SANTA BEATRIZ",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"166784": {
+"dir": "MZ. 29 LTS. 11,14,15,16,17 Y 18 NUEVA URBANIZACION TORRE BLANCA 2DA ETAPA",
+"ll": [
+-11.794993,
+-76.989292
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16681": {
+"dir": "ESQ. AV. SAN MARTIN Y AV. SANTA ROSA CANTO GRANDE, UNIDAD 12 MZ G LT. 5.",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16694": {
+"dir": "AV. LA MAR N° 2382 Y AV. RIVAGÜERO N° 810 URB. PANDO IV ETAPA (ANTES AV. RIVA AGUERO ESQ. CON LA MAR)",
+"ll": [
+-12.077436,
+-77.080558
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16700": {
+"dir": "AV. REPUBLICA DE CROACIA N° 377, ZAPALLAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16702": {
+"dir": "AV. CIRCUNVALACION LT. 34 ASOCIACION DIGNIDAD NACIONAL HUACHIPA - SANTA MARIA DE HUACHIPA",
+"ll": [
+-12.019967,
+-76.91926
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16703": {
+"dir": "AV. PASEO DE LA REPUBLICA N° 5545 ESQUINA CON LA AV. RICARDO PALMA",
+"ll": [
+-12.129515,
+-77.023469
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16706": {
+"dir": "AV. CRUZ DE MOTUPE MZ N 1 LOTE 1, AA HH MONTENEGRO",
+"ll": [
+-11.943918,
+-76.981894
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16713": {
+"dir": "ANTIGUA PANAMERICANA SUR, ESQ. CON AV. LOS ALAMOS MZ. A, LOTE 1",
+"ll": [
+-12.278816,
+-76.867874
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16723": {
+"dir": "CALLE LOS ORFEBREROS N° 129, URB. INDUSTRIAL EL ARTESANO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16725": {
+"dir": "AV. PROLONGACION JAVIER PRADO ESQ. CON LA AV. B, URB. LOS PORTALES DE JAVIER PRADO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16728": {
+"dir": "AV. BRASIL N° 4191 - 4193 ESQ. CON AV. DEL EJERCITO Y JR. HIPOLITO UNANUE",
+"ll": [
+-12.097035,
+-77.071486
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16737": {
+"dir": "AV. TOMAS VALLE MZ. I, LOTE 9 - A, URB. SAN PEDRO DE GARAGAY",
+"ll": [
+-12.009471,
+-77.087951
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16742": {
+"dir": "ESQ. AV. SAN MARTIN Y AV. LIBERTAD MZ. K, LOTE 4, 5 Y 6 COOP. CANTO GRANDE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16744": {
+"dir": "AVENIDA UNIVERSITARIA Y AVENIDA GERARDO UNGER, MZ. A, LOTES 1, 2, 47 Y SUB LOTE 48  URB. INDUSTRIAL INFANTAS III ETAPA",
+"ll": [
+-11.96538,
+-77.073162
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16750": {
+"dir": "AV. PETIT THOUARS N° 2795",
+"ll": [
+-12.101209,
+-77.030722
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16756": {
+"dir": "AV. ALFREDO MENDIOLA ESQUINA CON CALLE 12, MANZANA E LOTES 05 AL 13 Y 16 AL 23 - ASOCIACION DE VIVIENDA RIO SANTA",
+"ll": [
+-11.966795,
+-77.06815
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16766": {
+"dir": "AV. DEL EJERCITO N° 110 - 112 ESQUINA CON AV. BRASIL",
+"ll": [
+-12.098836,
+-77.067098
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16772": {
+"dir": "ESQUINA AV. A CON CALLE 1, MZ. B. LOTES 12, 13 Y 14",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16774": {
+"dir": "AV. JOSE GRANDA Nº 3210, URB. EL ESTABLO",
+"ll": [
+-12.029499,
+-77.064428
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16775": {
+"dir": "AV. NICOLAS AYLLON Nº 1912",
+"ll": [
+-12.064333,
+-76.986775
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16781": {
+"dir": "AA.HH. VICENTELO BAJO, COMITE 3, MZ. G (PISTA AUXILIAR VIA EVITAMIENTO  PUENTE PEDRO HUILCA)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"167937": {
+"dir": "UNIDAD CATASTRAL 12114, PARCELA 22, SECTOR A, FUNDO PUENTE PIEDRA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16796": {
+"dir": "LOTE N° 08 MZ. M, URB. LA CAMPIÑA 3ERA ETAPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16801": {
+"dir": "AV, REPUBLICA DE PANAMA N° 5025",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"16803": {
+"dir": "AV JAVIER PRADO N° 2504 ESQUINA CALLE FLORA TRISTAN",
+"ll": [
+-12.093564,
+-77.057196
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16804": {
+"dir": "AV. AYACUCHO Nº 140 - 144",
+"ll": [
+-12.142137,
+-77.001738
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16805": {
+"dir": "AV. SANTIAGO DE SURCO CON AV. LOS PROCERES",
+"ll": [
+-12.147999,
+-76.986583
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"16806": {
+"dir": "AV. UNIVERSITARIA ESQ. CARLOS IZAGUIRRE, MZ. A LOTES 1, 2, 3 Y 4 ASOCIACIÓN DE VIVIENDA SAN JUAN DE DIOS",
+"ll": [
+-11.96538,
+-77.073162
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"16817": {
+"dir": "AV. AVIACION N° 4269-4285 ESQUINA CON CALLE CLARA BARTON N° 121",
+"ll": [
+-12.111892,
+-77.000297
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"168562": {
+"dir": "LOTES 7, 8, 9 Y 10, MZ. A6, URB. SAN ANTONIO DE CARABAYLLO 3",
+"ll": [
+-11.794993,
+-76.989292
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"168796": {
+"dir": "LOTE 09 MANZANA H ASOCIACION PRO VIVIENDA LOS SUYOS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"169052": {
+"dir": "ANTIGUA CARRETERA PANAMERICANA SUR KM 23.645",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"169077": {
+"dir": "AV. LA PRINCIPAL MZ. B LOTE 5 URB. INDUSTRIAL CAMPOY",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"170980": {
+"dir": "AV. ALFREDO MENDIOLA N° 6583-6585-6589-6593-6597-6599 DE LOS LOTES 16 Y 12, MZ. 2E, PARCELACIÓN RESIDENCIAL SANTA LUISA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"174853": {
+"dir": "AV. CARLOS ALBERTO IZAGUIRRE Y AV. BERTELLO URB. SAN CARLOS MZ. \"A\" LOTES 5, 6, 7, 8, 9, 24, 25, 26, 27, 28 Y 29",
+"ll": [
+-11.9879,
+-77.115184
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"175371": {
+"dir": "MANZANA E2, LOTE 10 DEL CENTRO POBLADO LOS HUERTOS DEL RIO SECO, VALLE DE MALA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"175593": {
+"dir": "PREDIO RURAL TAMBO INGA, PARCELA 33-A. PROYECTO TAMBO INGA VALLE CHILLÓN (CARRETERA PANAMERICANA NORTE KM 28.5)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"176032": {
+"dir": "URB. EL BOULEVARD DE SAN ANTONIO, MZ. D9, LOTES DEL 23 AL 30 (AV. JOSÉ SACO ROJAS S/N ESQUINA CON AV. COMERCIAL)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"176900": {
+"dir": "AV. HEROES DEL ALTO CENEPA (EX-TRAPICHE) LOTE 40, URB. HUERTOS DE TUNGASUCA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"177035": {
+"dir": "AV. PAUL POBLET LIND UC, 12079 PARCELA H-40, LOTE C Y D, MANCHAY BAJO, VALLE DE LURIN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"177200": {
+"dir": "AV. CAMINO REAL MZ. C, LOTE 1, AA.HH. ASOCIACION DE POBLADORES EL BOSQUE DE CARABAYLLO",
+"ll": [
+-11.873029,
+-77.028785
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17856": {
+"dir": "AA.HH. SANTA MARIA, MZ. C1, LOTE 21",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17859": {
+"dir": "JR. ABTAO N° 784, ESQ. CON JR. HIPOLITO UNANUE",
+"ll": [
+-12.066164,
+-77.022698
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17860": {
+"dir": "JR. JOSE CARLOS MARIATEGUI Nº 540 URB. UNIVERSAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17861": {
+"dir": "AV. FCO PIZARRO N° 800 ESQUINA AV. FELIPE ARANCIBIA N° 101",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17862": {
+"dir": "PUEBLO JOVEN JOSE CARLOS MARIATEGUI, ETAPA PRIMERA, AV. JULIO C. TELLO N° 101, MZ. E LOTE 01",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17864": {
+"dir": "ESQ. AV. PROLONGACIÓN PACASMAYO Y AV. EL SOL DE NARANJAL PARCELA II EXFUNDO EL NARANJAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17865": {
+"dir": "AV. EL RETABLO ESQUINA CON CALLE 6, MZ. C, LOTE 1, URB. EL RETABLO",
+"ll": [
+-11.936,
+-77.059701
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17867": {
+"dir": "AV. ARGENTINA Nº 3003 - 3005",
+"ll": [
+-12.046163,
+-77.043901
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17868": {
+"dir": "AV. LAS TORRES N° 508, ESQUINA CON EL JR. MARISCAL ORBEGOSO, URB. EL PINO",
+"ll": [
+-12.069031,
+-76.991199
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17869": {
+"dir": "AV. LA MOLINA ESTE Nº 2295, ESQUINA PUNTA PEJERREY - URB. EL SOL DE LA MOLINA",
+"ll": [
+-12.069941,
+-76.951066
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17870": {
+"dir": "AV. NICOLAS DUEÑAS N° 308-310 ESQ. CON AV. ENRIQUE MEIGGS",
+"ll": [
+-12.038799,
+-77.066287
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"178713": {
+"dir": "AV. LAS PYMES, ASOC. ONG. INSTITUTO DE PROMOCIÓN Y DESARROLLO DE LA PEQUEÑA Y MEDIANA EMPRESA - INDEPROPYME, MZ. L2, LOTES 04, 05, 06, 07, 08 Y 09",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17879": {
+"dir": "AV. GENERAL GARZON N° 688",
+"ll": [
+-12.075165,
+-77.054142
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17880": {
+"dir": "AV. MARIA REICHE S/N SECTOR II,AMPLIACION 4TA. ETAPA, SECTOR 2, MZ. N, LOTE 22. PROG.HABITACIONAL PACHACAMAC",
+"ll": [
+-12.245036,
+-76.921602
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"17881": {
+"dir": "AV. MARAÑON, MZ. A, LOTE 1, ESQUINA CON CALLE N° 1",
+"ll": [
+-11.972366,
+-77.07324
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"178876": {
+"dir": "PARCELACION HUERTOS DE VILLENA MZ. B LT 4",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17904": {
+"dir": "AV. SEPARADORA INDUSTRIAL MZ. A, LTS. 32,35 URB. OLIMPO",
+"ll": [
+-12.069151,
+-76.973885
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"17905": {
+"dir": "AV. STA. ROSA N 496 ESQ. CALLE LA PILA",
+"ll": [
+-12.018111,
+-76.989819
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17906": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA N° 3299, ESQ. CON AV. EL BOSQUE, MZ. B - LT. 06 URB. CANTO GRANDE,",
+"ll": [
+-11.982633,
+-77.006242
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17907": {
+"dir": "AV. NICOLAS AYLLON MZ. B LOTES 01, 02, 03, 04, 05, 23, 24, 25 Y 26, KM. 15.1 (ANTES CARRETERA CENTRAL KM. 15.1)",
+"ll": [
+-12.0646,
+-76.990437
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17908": {
+"dir": "AA.HH. LAS PALMERAS MZ. C, LT. 14 (ANTES SERPENTÍN DE PASAMAYO KM. 45.9 PANAMERICANA NORTE)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17910": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 42",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"179164": {
+"dir": "LOTE 4 DEL PREDIO DENOMINADO EL CHAPARRAL SECTOR HUACHIPA AUTOPISTA RAMIRO PRIALE ALTURA KM 6.5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17944": {
+"dir": "AV. ARICA 481, ESQUINA CON JR. GENERAL VARELA Y JR. REBECA OQUENDO",
+"ll": [
+-12.05937,
+-77.045864
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17945": {
+"dir": "AV. PACHACUTEC CON AVENIDA Nº 4 LT. 2, 3, 4, 5 - AA.HH. NUEVO PROGRESO",
+"ll": [
+-12.191586,
+-76.93642
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"17946": {
+"dir": "AV. EL DERBY N° 109 ESQUINA CON AV. EL POLO",
+"ll": [
+-12.098501,
+-76.970774
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17947": {
+"dir": "JR. ELVIRA GARCIA Y GARCIA Nº 2790, 2794, 2796.",
+"ll": [
+-12.018866,
+-77.090574
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17948": {
+"dir": "AV. ARGENTINA N° 798 - 790, ESQUINA CON JR. RODOLFO BELTRAN",
+"ll": [
+-12.043844,
+-77.052195
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17949": {
+"dir": "AV. PUENTE PIEDRA N° 1218 KM. 32, PANAMERICANA NORTE",
+"ll": [
+-11.856746,
+-77.083891
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"17950": {
+"dir": "AV. SALVADOR ALLENDE CON AV. MANCO CAPAC, LOTE 9, MZ. N2",
+"ll": [
+-12.142536,
+-76.954319
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"17952": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 25.62",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"17953": {
+"dir": "AV. ROOSEVELT N° 5672 ESQ. AV. MONSEÑOR ROCA Y BOLOÑA N° 385",
+"ll": [
+-12.120312,
+-77.018514
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"179709": {
+"dir": "MZ. A, LOTE 1, 2, 23 Y 24 DE PARAISO DE SAN LORENZO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"179720": {
+"dir": "ESQUINA DE LA AV. LOMAS DE CARABAYLLO - AV. VILLA RICA MZ. A, LOTES 1 Y 2 AAHH. ASOCIACION AGROPECUARIA VILLA RICA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"180263": {
+"dir": "MZ. '37' LOTE 05, 3° ETAPA PARCELACION CIENEGUILLA AV. 'A', CARRETERA LIMA - HUAROCHIRI KM. 27.5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"180412": {
+"dir": "ANTIGUA CARRETERA A HUAROCHIRI ALT. KM. 3, PARCELA N° 22, PAMPA TINAJAS, COMUNIDAD CAMPESINA DE COLLANAC",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"180748": {
+"dir": "AV. NICOLAS DE PIEROLA, ESQUINA CON AV. ALFONSO UGARTE, SUB LOTE 30H-C FUNDO LA ESTRELLA",
+"ll": [
+-12.023695,
+-76.894028
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"181077": {
+"dir": "AV. NICOLAS ARRIOLA N° 1003",
+"ll": [
+-12.09008,
+-77.020481
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18289": {
+"dir": "ESQUINA AV. PASEO DE LA REPUBLICA CON AV. ISABEL LA CATOLICA S/N",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18297": {
+"dir": "ASOCIACION PRO VIVIENDA LAS VIOLETAS MZ. S LT. 2",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18351": {
+"dir": "AV. REPUBLICA DE PANAMA Nº 3690 - 3696",
+"ll": [
+-12.096272,
+-77.020849
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18385": {
+"dir": "AV. PAUL POBLET LIND MZ. 37 LOTE 1",
+"ll": [
+-12.198416,
+-76.869738
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18401": {
+"dir": "AV. 28 DE JULIO 159. ESQUINA CON AV. BRASIL",
+"ll": [
+-12.066292,
+-77.046125
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"184105": {
+"dir": "AV. JAVIER PRADO ESTE N° 1059",
+"ll": [
+-12.088605,
+-77.01012
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18429": {
+"dir": "AV. PASEO DE LA REPUBLICA Nº 3890 CON AV. ARAMBURU",
+"ll": [
+-12.102567,
+-77.027843
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18440": {
+"dir": "AV. MEXICO 700, ESQUINA CALLE JUAN CASTRO",
+"ll": [
+-12.076773,
+-77.027492
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18460": {
+"dir": "AV. CARLOS IZAGUIRRE N° 220",
+"ll": [
+-11.989619,
+-77.057531
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18501": {
+"dir": "ESQ. AV. ENCALADA CON AV. HUANCARAMA (EX AV. FERROCARRIL) MZ. A3 LTS. 12 Y 13, URB. LAS PRADERAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18533": {
+"dir": "AV. CHINCHAYSUYO Nº 402 - 404, URB. TAHUANTINSUYO",
+"ll": [
+-11.978296,
+-77.052693
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18550": {
+"dir": "AV. ALAMEDA SUR INTERSECCIÓN CON LA AV. SAN MARCOS TERCERA ETAPA, SECTOR 2, MZ. C3-1, LT. 1",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18555": {
+"dir": "AV. SEPARADORA INDUSTRIAL N° 3085, URB. MAYORAZGO CHICO, MZ. N, LOTES 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 Y 17",
+"ll": [
+-12.072165,
+-76.981207
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18558": {
+"dir": "AV. ALFREDO MENDIOLA S/N, ALTURA KM. 21.5 CARRETERA PANAMERICANA NORTE",
+"ll": [
+-12.014484,
+-77.060673
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"185657": {
+"dir": "CALLE SANTA MARIA DE NARANJAL (CONOCIDO COMO AV. LAS TORRES) MZ. C LOTES 4, 5, 6, PROGRAMA DE VIVIENDA SANTA MARIA DE NARANJAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18567": {
+"dir": "AV. JOSE GALVEZ BARRENECHEA N° 520",
+"ll": [
+-12.092068,
+-77.013281
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18571": {
+"dir": "AV. UNIVERSITARIA N° 9957, MZ-A1, LT 4, 5, 6 Y 7 - URB. LA ALBORADA - SEGUNDA ETAPA",
+"ll": [
+-11.899521,
+-77.038715
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18574": {
+"dir": "AV. JAVIER PRADO OESTE Nº 900-944-950-956. ESQUINA CON AV. JUAN DE ALIAGA",
+"ll": [
+-12.093564,
+-77.057196
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18622": {
+"dir": "MALECON SAN MARTIN N° 873",
+"ll": [
+-11.775961,
+-77.179934
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18639": {
+"dir": "AV. REPÚBLICA DE PANAMÁ N° 5160",
+"ll": [
+-12.101653,
+-77.019156
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"186433": {
+"dir": "LOTE 4, MZ. C PARCELA I, DEL PARQUE INDUSTRIAL DEL CONO SUR, FRENTE AV. PACHACUTEC",
+"ll": [
+-12.216894,
+-76.94915
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18666": {
+"dir": "ESQUINA DE LA AV. CANTA CALLAO Y LOS DOMINICOS MZ. E LOTE 7, URB. LAS BRISAS DE SANTA ROSA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"186660": {
+"dir": "AV. CORDIALIDAD CON AV. PROCERES DE HUANDOY, MZ. BBB-2, LT. 25, URB. LA FLORESTA",
+"ll": [
+-11.936166,
+-77.082537
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18687": {
+"dir": "AV. ANDRES AVELINO CACERES N° 120 ESQ. CON AV. RICARDO PALMA",
+"ll": [
+-12.154106,
+-76.965876
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18704": {
+"dir": "AV. CARLOS IZAGUIRRE MZ. D LTES. 4, 5 Y 6. URBANIZACION CALIFORNIA",
+"ll": [
+-11.990966,
+-77.093744
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18709": {
+"dir": "AV. NICOLAS DE PIEROLA ESQ. CON CALLE 20, MZ. K, LOTE 8, COOPERATIVA DE VIVIENDA MANYLSA LTDA. N° 476",
+"ll": [
+-12.023695,
+-76.894028
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"187377": {
+"dir": "AV. HÉROES DEL ALTO CENEPA (ANTES AUTOPISTA CHILLON TRAPICHE) LOTE 57 EX FUNDO CHACRA CERRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18818": {
+"dir": "ESQ. AV. SAN BORJA NORTE N° 1415 Y AV. PASEO DEL BOSQUE N° 806",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18819": {
+"dir": "AV. PASEO DE LA REPUBLICA N° 301",
+"ll": [
+-12.060344,
+-77.035116
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18820": {
+"dir": "AV. COMANDANTE ESPINAR Nº 585 ESQUINA CON LA AV. ANGAMOS",
+"ll": [
+-12.114304,
+-77.037211
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18821": {
+"dir": "AV. BENAVIDES N° 2849",
+"ll": [
+-12.120924,
+-77.030229
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18822": {
+"dir": "AV. REPUBLICA DE ARGENTINA N° 2501  2505 CON JR. LEONARDO ARRIETA N° 760 - 786",
+"ll": [
+-12.043844,
+-77.052195
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18824": {
+"dir": "AV. TINGO MARIA N° 994, ESQUINA CON AV. REPUBLICA DE VENEZUELA N° 1820",
+"ll": [
+-12.143009,
+-76.945611
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18825": {
+"dir": "JR. JORGE CHAVEZ 1087 ESQ. JR. OLMEDO N° 498",
+"ll": [
+-12.060156,
+-77.048403
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18826": {
+"dir": "LOTE 2-3 DE LA MANZANA V, URBANIZACIÓN PRO-SÉTIMO SECTOR - PARCELA A",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18827": {
+"dir": "AV. SAN JUAN, MZ A, LOTE 3A, PAMPA LIBRE, KM. 1.5, CARRETERA AL CENTRO NUCLEAR DE HUARANGAL",
+"ll": [
+-11.85676,
+-77.083961
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18828": {
+"dir": "AV. SAN JUAN MZ. B-1 LT. 01- TUPAC AMARU DE VILLA",
+"ll": [
+-12.200503,
+-76.97639
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18861": {
+"dir": "SUB. LOTE N° 1, DE LA PARCELA 60, COOPERATIVA AGRARIA DE USUARIOS MARIA PARADO DE BELLIDO - KM. 28 CARRETERA LIMA- CANTA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18863": {
+"dir": "CRUCE DE LA AV. 26 DE NOVIEMBRE Nº 2683 Y JR. MOCHE - AA. HH. VIRGEN DE LOURDES",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18864": {
+"dir": "AV. PACHACUTEC N° 3601",
+"ll": [
+-12.163419,
+-76.954923
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18865": {
+"dir": "ESQUINA AV. TUPAC AMARU N° 4902 CON AV. FRANCISCO BOLOGNESI",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18866": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 17 AA.HH. LAS BRISAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18868": {
+"dir": "CALLE PURUCHUCO ESQ. CON HATUN COLLA MZ. M LT. 2 URB. MANGOMARCA BAJA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"18869": {
+"dir": "AV. DE LAS AMERICAS ESQUINA CON AV. PARINACOCHAS N° 1683",
+"ll": [
+-12.075804,
+-77.01632
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18871": {
+"dir": "AV. PRIMAVERA N° 1095, ESQUINA CON CALLE CANARIAS N° 101",
+"ll": [
+-12.113088,
+-76.99279
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18872": {
+"dir": "AV. COLONIAL N° 140, 160, 164, 178, ESQUINA CON JR. HUAROCHIRI N° 591",
+"ll": [
+-12.046163,
+-77.043901
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18873": {
+"dir": "AV. LIMA ESQ. CALLE LA PAZ, URB. LOS PORTALES DE PACHACAMAC",
+"ll": [
+-12.197921,
+-76.874602
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18875": {
+"dir": "AV. NESTOR GAMBETTA S/N LOTIZACION LEONCIO PRADO, MZ. F, LOTE 83",
+"ll": [
+-11.839394,
+-77.1122
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18877": {
+"dir": "AV. ANGELICA GAMARRA MZ. I LT. 11-C SAN MARTIN DE PORRES",
+"ll": [
+-12.009471,
+-77.087951
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18878": {
+"dir": "AV. ALAMEDA LOS HORIZONTES N° 1070, URB. LOS CEDROS",
+"ll": [
+-12.204122,
+-77.008031
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"18879": {
+"dir": "AV. CAMINO REAL N° 1298",
+"ll": [
+-12.091116,
+-77.032257
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18881": {
+"dir": "AV. VENEZUELA N° 2180 ESQ. CON EL JR. YUNGAY",
+"ll": [
+-12.056335,
+-77.062585
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18882": {
+"dir": "AV. TUPAC AMARU, ESQ. AV. TOMAS VALLE",
+"ll": [
+-11.998118,
+-77.055765
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"18883": {
+"dir": "AV. BOLIVAR N° 330, ESQ. AV. DEL RIO",
+"ll": [
+-12.072685,
+-77.057292
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19942": {
+"dir": "ESQ. AV. SEPARADORA INDUSTRIAL N° 809",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19943": {
+"dir": "AV. METROPOLITANA MZ. J LOTE 42 B URB. TILDA",
+"ll": [
+-12.030729,
+-76.929528
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19944": {
+"dir": "AV. REPUBLICA DE VENEZUELA N° 1315",
+"ll": [
+-12.055584,
+-77.052724
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19945": {
+"dir": "AV. OSCAR R. BENAVIDES N° 1380",
+"ll": [
+-11.871753,
+-77.014133
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19946": {
+"dir": "CARRETERA CENTRAL N° 1670 KM. 21.75, SECTOR PAMPA DE MORON",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19947": {
+"dir": "AV. PUNO N° 2383, ESQ. CALLE DIAMANTE",
+"ll": [
+-11.954781,
+-77.045775
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19948": {
+"dir": "AV. PRIMERO DE MAYO N° 3090",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19949": {
+"dir": "AV. GERARDO UNGER N° 3301 ESQ. CON JR. RUFINO MACEDO",
+"ll": [
+-11.989619,
+-77.057531
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19952": {
+"dir": "ESQUINA DE AV. SAN LUIS CON PABLO PATRÓN 120 URB. SAN PABLO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19954": {
+"dir": "AV. MANCO CAPAC N° 693",
+"ll": [
+-12.06191,
+-77.029219
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19956": {
+"dir": "ESQ. AV. ZORRITOS S/N. CON MIGUEL BAQUERO N° 498",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19958": {
+"dir": "AV. ARENALES N° 881. ESQUINA EMILIO FERNANDEZ",
+"ll": [
+-12.213833,
+-76.879355
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19960": {
+"dir": "JR. INDEPENDENCIA MZ.18 LOTES 1 Y 2 SAN PEDRO DE LURIN KM 39.5",
+"ll": [
+-12.290371,
+-76.853705
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19963": {
+"dir": "AV. DEL EJERCITO N° 290",
+"ll": [
+-12.110499,
+-77.051362
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19964": {
+"dir": "CARRETERA CIENEGUILLA (AV. LA MOLINA) KM. 11.5 Y DESVIO A MANCHAY URB. MUSA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19966": {
+"dir": "AV. LA MARINA N° 325, ESQ. JR. TORRE TAGLE",
+"ll": [
+-12.077436,
+-77.080558
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19967": {
+"dir": "CALLE SAN MARTIN MZ. E3, LOTE 2 - EL DORADO",
+"ll": [
+-11.871399,
+-77.074836
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19968": {
+"dir": "AV. LOS PROCERES Nº 199 - 199A, ESQUINA CON JR. GAMARRA",
+"ll": [
+-12.030897,
+-77.042193
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19969": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA N° 5324",
+"ll": [
+-11.982633,
+-77.006242
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19972": {
+"dir": "AV. SANTA ROSA, MZ. J LOTE 19 URB. LOS ÁLAMOS",
+"ll": [
+-11.989773,
+-76.996736
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19973": {
+"dir": "AV. EL SOL ESQUINA CON AV. LOS ALAMOS, MZ. E. LOTES 20B Y 20A-1. URB. CANTO GRANDE",
+"ll": [
+-11.985446,
+-77.003184
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19975": {
+"dir": "INTERSECCION AV. CIRCUNVALACION Y CALLE V. MZ. D, LOTES. 3 Y 4, COOP. DE VIVIENDA LA UNION",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19976": {
+"dir": "ASENTAMIENTO HUMANO HÉROES DE SAN JUAN - SECTOR 5, MZ. I, LOTE 24",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19977": {
+"dir": "AV. JUAN PABLO II N° 1294-1298",
+"ll": [
+-12.127392,
+-76.977503
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19978": {
+"dir": "AV. DEFENSORES DE LIMA N° 630",
+"ll": [
+-12.158859,
+-76.958981
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19980": {
+"dir": "AV. SAN JUAN N° 895",
+"ll": [
+-12.075033,
+-77.0014
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19981": {
+"dir": "INTERSECCION DE LA AUTOPISTA CANTA CALLAO Y LA AV. CARLOS IZAGUIRRE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19982": {
+"dir": "AV. UNIVERSITARIA NORTE N° 2901",
+"ll": [
+-12.0011,
+-77.083818
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19983": {
+"dir": "AV. TUPAC AMARU N° 1453",
+"ll": [
+-12.026711,
+-77.065364
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19984": {
+"dir": "AV. ELMER FAUCETT N° 477-481 ESQ. CALLE HIDALGO  URB.MARANGA",
+"ll": [
+-12.065004,
+-77.097537
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19985": {
+"dir": "AV. RAFAEL ESCARDO N° 250",
+"ll": [
+-12.066774,
+-77.097054
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19986": {
+"dir": "AV. ALTO HUANCARAY MZ. B LTE. 6, ASOCIACION DE VIVIENDA SAN CARLOS",
+"ll": [
+-12.03918,
+-76.957849
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19988": {
+"dir": "AV. HUANCARAY MZ. A-6, LOTES DEL 44 AL 47, URB. LAS FLORES",
+"ll": [
+-12.036251,
+-76.949559
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19989": {
+"dir": "AV. TOMAS MARSANO Nº 4080 ESQUINA CON AV. SURCO",
+"ll": [
+-12.127987,
+-77.005513
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"19990": {
+"dir": "MZ. N LOTE 5 GRUPO 20 SECTOR 1 ESQ. CON AV. MICAELA BASTIDAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19991": {
+"dir": "AV. PACHACÚTEC N° 6587, MZ. D, SUB - LOTE 14, LOTES 16,18-19, URBANIZACIÓN SANTA ROSA DE TABLADA DE LURÍN",
+"ll": [
+-12.191586,
+-76.93642
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"19993": {
+"dir": "CALLE SAN MARTIN DE PORRAS N° 413 MZ. 191, LOTES 18 Y 1 ETAPA V, PP.JJ. JOSE CARLOS MARIATEGUI",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"19994": {
+"dir": "MZ. C, LOTE 1, GRUPO RESIDENCIAL N° 3, PUEBLO JOVEN NUEVO PROGRESO (AV. PACHACUTEC N° 8035)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"20124": {
+"dir": "AV. A SUR CALLE 1 Y CALLE 2, RESIDENCIAL VILLA HERMOSA DE HUAYCAN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"20129": {
+"dir": "ESQ. AV. RAUL FERRERO CON AV. ALAMEDA DEL CORREGIDOR",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"20130": {
+"dir": "AV. SANTA ROSA DE LIMA Nº 2091 - URB. LA HUAYRONA",
+"ll": [
+-11.986526,
+-76.999071
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"20876": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA N° 3810-A ESQ. JR. LOS SOCIOLOGOS URB. MARISCAL CACERES",
+"ll": [
+-11.982633,
+-77.006242
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"20982": {
+"dir": "AV. UNIVERSITARIA CDRA. 51, ESQUINA CON CALLE A",
+"ll": [
+-11.96538,
+-77.073162
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"21001": {
+"dir": "AV. GUARDIA CIVIL N° 1109 ESQ. CON AV. DEL PARQUE SUR N° 314",
+"ll": [
+-12.094393,
+-77.010228
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"21003": {
+"dir": "AV. MARIA REICHE S/N. CON SEPARADORA INDUSTRIAL - URB. PACHACAMAC",
+"ll": [
+-12.245036,
+-76.921602
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"21004": {
+"dir": "ESQ. AV. MIGUEL GRAU Y CALLE 4",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21006": {
+"dir": "AV. LA MARINA Nº 2789 ESQUINA CON AV. RAFAEL ESCARDO, URB MARANGA",
+"ll": [
+-12.072912,
+-77.103178
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"21007": {
+"dir": "ESQ. AV. URUBAMBA CON AV. LOS INGENIEROS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21030": {
+"dir": "AV. COLECTORA CUADRA 4, MZ. \"A-19\" LOTE 3",
+"ll": [
+-12.04309,
+-76.959453
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21031": {
+"dir": "ESQ. AV. HUAYLAS N° 600 CON JR. JUSTO NAVEDA N° 121",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21032": {
+"dir": "AV. GUARDIA CIVIL N° 333",
+"ll": [
+-12.178577,
+-76.996184
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21035": {
+"dir": "AV. MIGUEL IGLESIAS MZ. J, LT. 8, COOPERATIVA DE VIVIENDA SAN MIGUEL DE APURIMAC",
+"ll": [
+-12.158859,
+-76.958981
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21036": {
+"dir": "AV. GUARDIA CIVIL N° 723 - 709 - 715, ESQUINA CON AV. EL SOL N° 1297 - 1283 - 1275 - 1269, URB. LA CAMPIÑA",
+"ll": [
+-12.183747,
+-77.001887
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"21038": {
+"dir": "AV. TUPAC AMARU, ALTURA KM. 23 CARRETERA CANTA",
+"ll": [
+-11.750739,
+-76.967647
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"21052": {
+"dir": "AV. MARISCAL OSCAR R. BENAVIDES Nº 871 (ANTES: AV. COLONIAL ESQ. AV. TINGO MARIA)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21053": {
+"dir": "AV. GRAN CHIMÚ Nº 1412",
+"ll": [
+-12.024264,
+-76.988386
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21054": {
+"dir": "AV. SANTIAGO DE SURCO N° 3291, ESQUINA CON LOS ALAMOS LOTES 4 Y 5",
+"ll": [
+-12.147999,
+-76.986583
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21058": {
+"dir": "AV. FELIPE MENDIZABAL MZ. K, LTS. 3 Y 4, URB TUNGASUCA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21096": {
+"dir": "AV. HEROES DEL ALTO CENEPA MZ. B LOTE 13 URB. CHACRA CERRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21163": {
+"dir": "AV. JOSE CARLOS MARIATEGUI ESQ. CALLE B-8 HUAYCAN",
+"ll": [
+-12.012365,
+-76.800776
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"21202": {
+"dir": "ESQ. AV. EL SOL CON AV. PASTOR SEVILLA, SECTOR 2, GRUPO 21-A, MZ. ZC, LT. C",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21203": {
+"dir": "MZ D, LOTE 2 (INTERSECCION DE AV. CANTA CALLAO Y AV. LOS OLIVOS) ASOCIACION DE VIVIENDA MONTE AZUL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21204": {
+"dir": "AV. UNIVERSITARIA MZ. C LTS. 32 Y 33 URB. SAN EULOGIO",
+"ll": [
+-11.955677,
+-77.060403
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21329": {
+"dir": "AV. JOSE CARLOS MARIATEGUI N° 3310 ESQ. CON AV. ISIDORO SUAREZ",
+"ll": [
+-12.136396,
+-76.942752
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21358": {
+"dir": "PANAMERICANA SUR KM. 30 - PARCELA B21, PARCELA B21 A1, EX FUNDO SAN PEDRO",
+"ll": [
+-12.297977,
+-76.848779
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21397": {
+"dir": "CARRETERA CENTRAL KM. 16.50",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21446": {
+"dir": "AV. CARLOS IZAGUIRRE N° 220 ESQUINA CON CALLE NAPO",
+"ll": [
+-11.989619,
+-77.057531
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21482": {
+"dir": "AV. CANTA CALLAO Y CALLE 2 - MZ. F, LT. 19 - 22, 38, 39, URB. BRISAS DE STA ROSA",
+"ll": [
+-11.958486,
+-77.084744
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"21510": {
+"dir": "AV. 26 DE NOVIEMBRE N° 2415, ESQUINA CON CALLE ZAÑA AA.HH. NUEVA ESPERANZA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21557": {
+"dir": "ESQUINA AV. C Y CALLE 5 PARQUE INDUSTRIAL EL ASESOR",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"21558": {
+"dir": "AV. EL SOL Nº 697, ESQUINA CON AV. REPUBLICA DE PANAMA",
+"ll": [
+-12.13886,
+-77.018079
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21660": {
+"dir": "AV. CENTRAL CDRA. 6, SECTOR 1, GRUPO 3, MZ. J, LTS. 1, 2 Y 24",
+"ll": [
+-12.193096,
+-76.945441
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"21665": {
+"dir": "ESQ. AV. LA PAZ Y AV. ARMENDARIZ N° 575",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"31927": {
+"dir": "AV. IQUITOS N° 1100. ESQUINA CON JIRON ITALIA N° 100",
+"ll": [
+-12.071749,
+-77.029985
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"33179": {
+"dir": "AV. LAS PALMERAS MZ. A1, LOTES 2-3, ESQ. CON AV. NARANJAL, URB. PARQUE NARANJAL II ETAPA",
+"ll": [
+-11.96813,
+-77.071513
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"33342": {
+"dir": "AV. AVIACION S/N, ALTURA CDRA. 15, OVALO ARRIOLA",
+"ll": [
+-12.064406,
+-77.012624
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"33657": {
+"dir": "AV. NICOLAS AYLLON (CARRETERA CENTRAL) KM. 12, SUBLOTE A DEL FUNDO SAN JUAN DE PARIACHI",
+"ll": [
+-12.064333,
+-76.986775
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"33678": {
+"dir": "AV. PASTOR SEVILLA Y AV. MARIA REICHE, MZ. A LOTES 6, 7, 8 Y 9 SECTOR 2, 4TA ETAPA URB. PACHACAMAC",
+"ll": [
+-12.210626,
+-76.950339
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"34011": {
+"dir": "AV. EL SOL N° 645",
+"ll": [
+-12.168199,
+-76.951282
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"34149": {
+"dir": "AV. VILLA MARIA DEL TRIUNFO N° 1988, ESQUINA CON CALLE INDEPENDENCIA, MZ. H-19 LOTE 15",
+"ll": [
+-12.18487,
+-76.922685
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"34178": {
+"dir": "AUTOPISTA RAMIRO PRIALE KM 8.5, MZ. A, SUB LOTE 54-B, CENTRO POBLADO MENOR DE SANTA MARIA DE HUACHIPA",
+"ll": [
+-12.017616,
+-76.910925
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"34179": {
+"dir": "AV. MARIA REYCHE Y AV. SEPARADORA INDUSTRIAL IV ETAPA, URB. PACHACAMAC",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"34457": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 34 Y CALLE SANTA ROSA MZ. K-1, LOTE 12, CENTRO POBLADO ZAPALLAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"34548": {
+"dir": "AV. LUNA PIZARRO N° 1212, 1216, 1220 ESQUINA CALLE FRANCIA N° 584, 598",
+"ll": [
+-12.06692,
+-77.02766
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"34612": {
+"dir": "AV. SAN ALFONSO (LOTE 58) SANTA CLARA",
+"ll": [
+-12.022602,
+-76.88583
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"34649": {
+"dir": "ESQ. AV. DE LA FRATERNIDAD CON LA CALLE 19, MZ W-1, LOTES 15-16, AAHH. ENRIQUE MONTENEGRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"34671": {
+"dir": "AV. BAUZATE Y MEZA ESQUINA JR. MENDOZA MERINO",
+"ll": [
+-12.062708,
+-77.01702
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"34770": {
+"dir": "ESQ. AV. LOS INGENIEROS Y AV. SEPARADORA INDUSTRIAL N° 2503, MZ. E LOTE 14-2, URB. STA. RAQUEL 2DA. ETAPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"34801": {
+"dir": "CALLE 5 MZ. F LOTE 01, URB. PROVIESA UNIVERSAL (NUEVO LURIN)",
+"ll": [
+-12.240841,
+-76.913537
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"34805": {
+"dir": "ESQ. AV. MICAELA BASTIDAS Y MATEO PUMACAHUA SECTOR I, GRUPO 16 MZ. K, LT. 5 Y 6",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"34928": {
+"dir": "AV. MIGUEL IGLESIAS ESQUINA CON AV. ANDRES A. CACERES MZ. E, LOTES 14 Y 15, AA.HH. HEROES DE SAN JUAN",
+"ll": [
+-12.158859,
+-76.958981
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"35025": {
+"dir": "ESQUINA AV. EL POLO Y AV. RAUL FERRERO (CLUB GOLF LOS INCAS N° 493 MZ. C LT. 13)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"35059": {
+"dir": "AV.PRIMAVERA N° 1204-1212, ESQUINA CON JR. JERONIMO DE ALIAGA SUR (LTS. 25,26 DE LA MZ. H, URB. VALLE HERMOSO DE MONTERRICO - ZONA ESTE)",
+"ll": [
+-12.104158,
+-76.964144
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"35251": {
+"dir": "AV. DEFENSORES DEL MORRO (ANTES HUAYLAS) N° 2671 MZ. Z-1, LTS. 1, 2, 3, 4 Y 5. URB. SANTA LEONOR",
+"ll": [
+-12.183483,
+-77.009056
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"35335": {
+"dir": "CARRETERA LIMA - CANTA KM. 25",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"35357": {
+"dir": "ESQ. AV. SAN JUAN Y CALLE CAJAMARCA MZ. R-10 LT. 12, SECTOR LEONCIO PRADO - PAMPLONA ALTA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"35408": {
+"dir": "ESQ. AV. PROCERES DE LA INDEPENDENCIA (EX-WIESSE) / AV. AMPLIACION MARISCAL CACERES MZ P15 LT 124",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"35624": {
+"dir": "AV SANTA ROSA N° 333",
+"ll": [
+-12.065864,
+-76.978885
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"36159": {
+"dir": "MZ. C LOTE 38, AA.HH. HEROES DE SAN JUAN, SECTOR 5 FRENTE A LA AV. MARIANO PASTOR SEVILLA (ANTES AV. PASTOR SEVILLA CRUCE CON LA AV. LOS GERANIOS)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"36832": {
+"dir": "AV. SEBASTIAN LORENTE N° 698",
+"ll": [
+-12.049277,
+-77.013074
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"37044": {
+"dir": "AV. PACHACUTEC N° 1700",
+"ll": [
+-12.163419,
+-76.954923
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"37334": {
+"dir": "AV. PROLONGACIÓN JUAN LECAROS S/N ESQ. AV. COPACABANA, URB. LOS CRISANTEMOS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"37439": {
+"dir": "AV. PROCERES MZ. H, LOTE 1A APV, COMPRADORES DE TERRENOS - CAMPOY",
+"ll": [
+-12.015671,
+-76.964519
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"37548": {
+"dir": "AV. JOSE GABRIEL CONDORCANQUI N° 1101-1103, URB. TUPAC AMARU",
+"ll": [
+-11.970597,
+-77.041283
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"37610": {
+"dir": "AV. COLONIAL N° 1817 - 1821",
+"ll": [
+-12.051199,
+-77.084466
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"37654": {
+"dir": "AV. TUPAC AMARU KM. 17.5 MZ. B1 LT. 1-3 ASOC. DE VIVIENDA SANTA ROSA DE PUNCHAUCA",
+"ll": [
+-11.884354,
+-77.023255
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"37966": {
+"dir": "ANTIGUA CARRETERA PANAMERICANA SUR KM. 37.00 ESQUINA CALLE 1 Y AV CENTRAL, MZ. P2 LOTE 15, URB. NUEVO LURIN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"38158": {
+"dir": "ESQUINA DE LA AV. CENTRAL CON LA AV. HUANDOY MZ. H LT. 12 13 Y 14",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"38192": {
+"dir": "AV. CANTA CALLAO - MZ. J, LT. 16, 17, 18 Y 19. URB LAS BRISAS",
+"ll": [
+-11.984003,
+-77.099026
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"38208": {
+"dir": "AV. PEDRO MIOTTA Nº 800-810 Y AV. BELISARIO SUAREZ, URB. ZONA INDUSTRIAL",
+"ll": [
+-12.159327,
+-76.980309
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"38655": {
+"dir": "AV. AVIACION N° 4524 ESQUINA CON LA AV. VILLARAN",
+"ll": [
+-12.111892,
+-77.000297
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"38662": {
+"dir": "AUTOPISTA PANAMERICANA SUR KM 18.5, SUB LOTE 29-A, FUNDO VILLA BAJA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"38667": {
+"dir": "AV HUAROCHIRI N° 905, ESQUINA CON AV. ALTO HUANCARAY, MZ. H1, LOTES 2, 3, 4, 5 Y 6 URB. EL ASESOR",
+"ll": [
+-12.031071,
+-76.957394
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"38701": {
+"dir": "AV. ALFREDO MENDIOLA 6200 URB. MOLITALIA (PANAMERICANA NORTE KM. 20)",
+"ll": [
+-11.966795,
+-77.06815
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"38716": {
+"dir": "AV. SAN MARTIN KM. 18.5, ESQ. CON CALLE RICARDO PALMA, MZ. H, LOTE N° 4, ZONA F, CENTRO POBLADO TAMBO VIEJO",
+"ll": [
+-12.109585,
+-76.824288
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"39167": {
+"dir": "CIRCUITO DE PLAYAS - PLAYA MARBELLA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"39248": {
+"dir": "ANTIGUA CARRETERA PANAMERICANA SUR KM. 31, MZ. C LT.2 HUERTOS DE VILLENA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"39429": {
+"dir": "JR. HUMBOLDT CON PROLONGACION HUAMANGA N° 619 (BERMA CENTRAL)",
+"ll": [
+-12.064143,
+-77.020725
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"39783": {
+"dir": "AV. LA MARINA N° 589, ESQUINA CON AV. SUCRE N° 1201-1203",
+"ll": [
+-12.081458,
+-77.070958
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"40353": {
+"dir": "AV. CIRCUNVALACION N° 377, ESQ. CON PROLONGACIÓN BENAVIDES",
+"ll": [
+-12.089087,
+-76.981111
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"40437": {
+"dir": "AV. LOS PROCERES MZ . NN-2, LOTES 1-6 URB. PUERTA DE PRO 2DA ETAPA",
+"ll": [
+-11.96989,
+-77.08026
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"40566": {
+"dir": "AV. HEROES DEL DEL CENEPA ESQUINA CON LA CALLE D AA.HH SANTA MARIA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"40605": {
+"dir": "MALECON SAN MARTIN N° 100  102, PUCUSANA",
+"ll": [
+-12.483603,
+-76.796295
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"40709": {
+"dir": "AV. LA MOLINA Nº 580, ESQ. CON LA CALLE LAS MANDARINAS",
+"ll": [
+-12.079528,
+-76.950749
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"40731": {
+"dir": "AV. LOS DOMINICOS MZ. U, LT.18 - URBANIZACIÓN LOS CIPRESES",
+"ll": [
+-11.995282,
+-77.104622
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"40964": {
+"dir": "AV. LOS HEROES N° 1109",
+"ll": [
+-12.161492,
+-76.956563
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"40975": {
+"dir": "AV. JOSE CARLOS MARIATEGUI MZ. H LOTE 24-COOP. DE VIVIENDA HUANCAYO",
+"ll": [
+-12.045667,
+-76.987861
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"40978": {
+"dir": "MZ. C1 LOTE 20 A2, URB. EL CLUB DE HUACHIPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"41270": {
+"dir": "AV. CANTA CALLAO MZ. A, LOTE 16, URB. MI TERRUÑO",
+"ll": [
+-11.984003,
+-77.099026
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"41310": {
+"dir": "AV. CARRETERA CENTRAL KM. 13.5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"41375": {
+"dir": "AV. ANGAMOS ESTE N° 1715 ESQ. CON CALLE UNO",
+"ll": [
+-12.113807,
+-77.026513
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"41440": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 26.5 MZ. C LOTE 5-RESIDENCIAL SAN PEDRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"41487": {
+"dir": "INTERSECCION DE LA AV. UNIVERSITARIA Y AV. ANGELICA GAMARRA (LT. 01-B), URB. SANTO TOMAS DE GARAGAY",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"41488": {
+"dir": "AV. CANTO GRANDE N° 401, MZ I, LOTE 5, URB CANTO BELLO",
+"ll": [
+-11.977163,
+-77.010316
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"41547": {
+"dir": "AV. JORGE CHAVEZ N° 870 - 877, ESQ. AV. ROOSVELT",
+"ll": [
+-12.146495,
+-77.009479
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"41562": {
+"dir": "JR. CUSCO MZ. E-8 LOTE 14 A1, TABLADA DE LURIN",
+"ll": [
+-12.196752,
+-76.921844
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"41707": {
+"dir": "AV. WIESSE, MZ. K-19, LOTE 15",
+"ll": [
+-11.979668,
+-77.005332
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"41728": {
+"dir": "ESQ. AV. MICAELA BASTIDAS Y CALLE 8 MZ. I GRUPO 19",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"41779": {
+"dir": "AV. JOSE CARLOS MARIATEGUI S/N MZ. H, LOTES 16 Y 17, SECTOR III GRUPO 9",
+"ll": [
+-12.220012,
+-76.931501
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"42236": {
+"dir": "ESQ. AV. UNIVERSITARIA Y AV. RIO CHILLON (CALLE CAMINO REAL), MZ. Q LOTE 01, URB. PROGRESIVA SANTA ROSA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"42387": {
+"dir": "CARRETERA CENTRAL KM. 16 (AV. NICOLAS AYLLON S/N, MZ. A, LOTE 1) PROGRAMA DE VIVIENDA LAS PRADERAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"42755": {
+"dir": "AV. JAVIER PRADO ESTE N° 311",
+"ll": [
+-12.089757,
+-77.017676
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"42769": {
+"dir": "AV. NICOLAS DUEÑAS N° 606, 610, 616 (ANTES AV. NICOLAS DUEÑAS N° 590 CDRA 17 DE LA AV. ARGENTINA)",
+"ll": [
+-12.038799,
+-77.066287
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"42967": {
+"dir": "JR. ANDRES AVELINO CACERES N° 995 MZ. 209 LT 11 VALLECITO ALTO",
+"ll": [
+-12.177725,
+-76.949835
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"43021": {
+"dir": "AV. VICTOR MALASQUEZ, PARCELA 7, COMUNIDAD CAMPESINA COLLANAC",
+"ll": [
+-12.151287,
+-76.870528
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"43023": {
+"dir": "AV. UNIVERSITARIA ESQ. CON CALLE 15 MZ. Q-1 LOTES 30 Y 31 COOPERATIVA DE VIVIENDA PRIMAVERA",
+"ll": [
+-11.955677,
+-77.060403
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"43245": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 27.5, PARCELA N° 10271- TAMBO INGA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"43492": {
+"dir": "CARRETERA CENTRAL (AV. LIMA SUR) ESQUINA CON PASAJE JACARANDAES, SUB LOTE 34-B1, B2, B3",
+"ll": [
+-11.962589,
+-76.739462
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"43574": {
+"dir": "AV. REPUBLICA DE PANAMA N° 402 ESQ. JR. AURELIO DE SOUZA",
+"ll": [
+-12.137092,
+-77.017562
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"43627": {
+"dir": "AV. MEXICO N° 333",
+"ll": [
+-12.076773,
+-77.027492
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"43777": {
+"dir": "AV. METROPOLITANA MZ. C-8 LOTE 20",
+"ll": [
+-12.04309,
+-76.959453
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"43875": {
+"dir": "AV. GUARDIA CIVIL 698 ESQ. AV. EL SOL",
+"ll": [
+-12.183747,
+-77.001887
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"44240": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 19.8",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"44325": {
+"dir": "AV. REVOLUCIÓN N° 2976 5TA ZONA COLLIQUE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"44472": {
+"dir": "CARRETERA LIMA - CANTA KM. 23, PARCELA 283 (EX-FUNDO CAUDEVILLA - HUACOY PUNCHAUCA)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"44703": {
+"dir": "JR. LA PUNTA MZ. 3-T LOTE 23, ESQ. CON AV. LA MOLINA, URB. EL SOL DE LA MOLINA",
+"ll": [
+-12.085824,
+-76.901664
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"44924": {
+"dir": "AV. PROLONGACIÓN REVOLUCIÓN 3501 MZ. A LOTE 3, 4 Y 5 AA.HH. SANTA ROSA DE COLLIQUE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"44926": {
+"dir": "AV. TUPAC AMARU KM. 22.5 ZONA DE HUACOY CARRETERA LIMA  CANTA, ASENTAMIENTO HUMANO VILLA SAN ANTONIO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"45081": {
+"dir": "AV. LOS CHANCAS CON CALLE N° 8, LOTE 26-27, ASOCIACIÓN DE VIVIENDA LOS PINOS",
+"ll": [
+-12.038237,
+-76.965028
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"45187": {
+"dir": "AV. LIMA N° 646",
+"ll": [
+-12.489775,
+-76.794192
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"45240": {
+"dir": "AV. UNIVERSITARIA ESQUINA CON LA AV. NARANJAL, MANZANA A, LOTES 1, 2, 3, 4, 5, 23, 24, 25 Y 26 DEL A. H. 19 DE MAYO",
+"ll": [
+-11.96538,
+-77.073162
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"45439": {
+"dir": "AV. JAIME BAUZATE Y MEZA N° 564-568",
+"ll": [
+-12.062708,
+-77.01702
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"45492": {
+"dir": "AV. TANTAMAYO (EX. AV. CHUQUITANTA) Y AV. PACASMAYO (EX. AV. ALEJANDRO BERTELLO), MZ. B LT. 1 Y 2. URB. SAN JUAN BAUTISTA",
+"ll": [
+-11.962262,
+-77.093816
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"45639": {
+"dir": "MZ. '37' LOTE 05, 3° ETAPA PARCELACION CIENEGUILLA AV. 'A', CARRETERA LIMA - HUAROCHIRI KM. 27.5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"60668": {
+"dir": "AV. CONDORCANQUI Nº 1294, URB. SANTO DOMINGO, 5TA ETAPA",
+"ll": [
+-11.882676,
+-77.033186
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"60762": {
+"dir": "AA.HH. HEROES DE SAN JUAN MZ. D LOTE 2",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"61026": {
+"dir": "AUTOPISTA MANUEL DEL VALLE MZ.Z, SUB LT.B-1, URB. LOS HUERTOS DE LURIN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"61136": {
+"dir": "AV REPUBLICA DE PANAMA Nº 5185",
+"ll": [
+-12.105964,
+-77.018833
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"61570": {
+"dir": "UNIDAD CATASTRAL 10715, SECTOR PACAYAL, FUNDO SAN JUAN DE PARIACHE, AV. NICOLAS AYLLON S/N",
+"ll": [
+-12.0646,
+-76.990437
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"61656": {
+"dir": "AV. NICOLAS AYLLON, ESQUINA CON AV. LA MOLINA",
+"ll": [
+-12.0646,
+-76.990437
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"61744": {
+"dir": "ESQUINA DE LA AV. LOMAS DE CARABAYLLO - AV. VILLA RICA MZ. A, LOTES 1 Y 2 AAHH. ASOCIACION AGROPECUARIA VILLA RICA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"61767": {
+"dir": "AV. GERARDO UNGER NO 3301, ESQUINA CON JR. RUFINO MACEDO",
+"ll": [
+-11.989619,
+-77.057531
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"61861": {
+"dir": "AV. 27 DE DICIEMBRE MZ. 8S LOTE 9 SEGUNDO SECTOR SAN FRANCISCO TABLADA DE LURIN",
+"ll": [
+-12.187526,
+-76.925224
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"61902": {
+"dir": "AV. GRAL. FELIPE SANTIAGO SALAVERRY 341 URB. EL PINO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"62240": {
+"dir": "AV. ARICA NRO. 1301",
+"ll": [
+-12.05937,
+-77.045864
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"62298": {
+"dir": "AV. PRINCIPAL (FRANCISCO BOLOGNESI) S/N, MZ. A LOTES 19, 20 Y 21 AA.HH. VILLA CAMPOY",
+"ll": [
+-12.019613,
+-76.952976
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"62558": {
+"dir": "LOTE 1 SUBLOTE 3 - ZONA G PARCELACION RUSTICA DEL FUNDO CHACRA CERRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"62988": {
+"dir": "AV. ALFREDO MENSIOLA No 1395 - URB. LA MILLA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"62992": {
+"dir": "AV. JAVIER PRADO ESTE N° 1593",
+"ll": [
+-12.088605,
+-77.01012
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"63591": {
+"dir": "AV. EL SOL 527 A MZ F SUB-LOTE 16A URB. CANTO GRANDE",
+"ll": [
+-11.982204,
+-77.012785
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"63899": {
+"dir": "JR. HUARAZ N° 1484 - 1494 ESQUINA CON JR. RESTAURACION",
+"ll": [
+-12.05937,
+-77.045864
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"63904": {
+"dir": "AV. HIPOLITO UNANUE N° 366, ESQ. CON JR. SAENZ PEÑA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"63910": {
+"dir": "CARRETERA PANAMERICANA SUR KM 57.00, PREDIO COMUNAL CHUTANA PAMPA PATITA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"63984": {
+"dir": "AV. LA FLORIDA CDRA. 12 MIRAMAR . LAS CONCHITAS",
+"ll": [
+-11.769684,
+-77.169909
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"64035": {
+"dir": "AV. REPUBLICA DE PANAMA 4120",
+"ll": [
+-12.101653,
+-77.019156
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"64036": {
+"dir": "AV. LAS TORRES 497, URB. LOS SAUCES",
+"ll": [
+-12.016405,
+-76.897203
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"64051": {
+"dir": "AV. SANTIAGO DE CHUCO 501, ESQUINA CON AV. APURIMAC-COOPERATIVA UNIVERSAL",
+"ll": [
+-12.04272,
+-76.970848
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"64309": {
+"dir": "JR. PEDRO GAREZON N° 500",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"64409": {
+"dir": "ESQ. AV. VISTA ALEGRE Y JR. 24 DE JUNIO, MZ.25, LT.22 AA.HH. 3 DE OCTUBRE DE VILLA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"64419": {
+"dir": "ESQ. ANTIGUA PANAMERICANA SUR KM. 46.800. MZ. M, LT. 2-4 Y CALLE 18, LOCALIDAD PUNTA ROCAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6490": {
+"dir": "AV. HUAYLAS KM. 19 URB. VILLA BAJA",
+"ll": [
+-12.175526,
+-77.017612
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6740": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 31.7",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6743": {
+"dir": "AV. CESAR CANEVARO Nº 1598",
+"ll": [
+-12.085213,
+-77.048367
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6746": {
+"dir": "AV. NICOLAS AYLLON N° 4706 (LOTE A - FUNDO VISTA ALEGRE)",
+"ll": [
+-12.063015,
+-76.983061
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6747": {
+"dir": "AV. CIRCUMVALACION MZ. F LT.8",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6749": {
+"dir": "AV. ALFREDO MENDIOLA N° 3550",
+"ll": [
+-11.98334,
+-77.064725
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6751": {
+"dir": "AVENIDA GENERAL ALVAREZ DE ARENALES N° 400",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6753": {
+"dir": "ASOCIACION DE PROPIETARIOS NARANJITO MZ. C LOTES 09,10 Y 11 CARRETERA PANAMERICANA NORTE KM. 28.5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6754": {
+"dir": "AV. VENEZUELA 4647",
+"ll": [
+-12.063007,
+-77.10132
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6759": {
+"dir": "AV. PACHACUTEC N° 2334",
+"ll": [
+-12.191586,
+-76.93642
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6764": {
+"dir": "PASEO DE LA REPUBLICA NO. 5789",
+"ll": [
+-12.129515,
+-77.023469
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6765": {
+"dir": "AV. REPUBLICA DE COLOMBIA N° 105-109",
+"ll": [
+-12.098617,
+-77.032151
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6767": {
+"dir": "CARRETERA CENTRAL KM. 20.8",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6771": {
+"dir": "JR. ARIAS SCHEREIBER N° 124, ESQ. JOSE SABOGAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6776": {
+"dir": "AV. UNIVERSITARIA S/N MZ. F LTS. 1 Y 24 ASOCIACION CAUDEVILLA",
+"ll": [
+-11.869823,
+-77.021411
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6779": {
+"dir": "AV. DEL EJERCITO N° 965, 967 Y 973, LOTES 1, 3, 16C, 17 Y 18 DE LA MZ. 68, URB. SAN FELIPE",
+"ll": [
+-12.097035,
+-77.071486
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6780": {
+"dir": "AV. ELMER FAUCETT NO. 384",
+"ll": [
+-12.065004,
+-77.097537
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6781": {
+"dir": "AV. ARENALES N° 2100",
+"ll": [
+-12.080171,
+-77.039308
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6783": {
+"dir": "AV. NICOLAS ARRIOLA N° 295 URB. SANTA CATALINA",
+"ll": [
+-12.09008,
+-77.020481
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6785": {
+"dir": "AV. TINGO MARIA N° 1711",
+"ll": [
+-12.05941,
+-77.058839
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6788": {
+"dir": "AV. REPUBLICA DE PANAMA N° 4101 ESQ. AV. TOMAS MARSANO",
+"ll": [
+-12.101653,
+-77.019156
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6792": {
+"dir": "AV. ENRIQUE CANAVAL MOREYRA N° 202",
+"ll": [
+-12.096272,
+-77.020849
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6799": {
+"dir": "AV. LEONCIO PRADO N° 780 (PANAMERICANA NORTE KM. 34.5)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6801": {
+"dir": "AV NICOLAS AYLLON N° 1202 Y ESQ AV LAS MAGNOLIAS (CARRETERA CENTRAL KM 25)",
+"ll": [
+-11.965671,
+-76.739335
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6806": {
+"dir": "AV. REPUBLICA DE PANAMA S/N CUADRA 32",
+"ll": [
+-12.096272,
+-77.020849
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6808": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA N° 2556",
+"ll": [
+-11.982633,
+-77.006242
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6809": {
+"dir": "AV. LIMA N° 1455",
+"ll": [
+-12.230771,
+-76.909627
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6810": {
+"dir": "MZ. O - 6 LT. 46 MARISCAL CACERES (ESQ. AV. PROCERES DE LA INDEPENDENCIA CON JR. MOSCU)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6818": {
+"dir": "AV. BENAVIDES ESQUINA CON LA AV. REPUBLICA DE PANAMA",
+"ll": [
+-12.120924,
+-77.030229
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6821": {
+"dir": "AV. PASEO DE LA REPUBLICA N° 4251",
+"ll": [
+-12.107676,
+-77.02618
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6824": {
+"dir": "AV. LA MOLINA N° 448",
+"ll": [
+-12.060143,
+-76.961669
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6826": {
+"dir": "AV. RAUL FERRERO N° 1313B CON CALLE LAS RETAMAS URB. LOS SIRIUS I ETAPA",
+"ll": [
+-12.091165,
+-76.951264
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6836": {
+"dir": "AV. LIMA SUR Nº 895 - CHOSICA",
+"ll": [
+-11.936218,
+-76.695733
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6837": {
+"dir": "AV. JAVIER PRADO ESTE N° 6651 URB. SANTA PATRICIA - III ETAPA",
+"ll": [
+-12.072315,
+-76.958133
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6840": {
+"dir": "AV. NICOLAS AYLLON N° 1340",
+"ll": [
+-12.0646,
+-76.990437
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6870": {
+"dir": "AV. UNIVERSITARIA ESQ. AV. CARLOS IZAGUIRRE",
+"ll": [
+-11.96538,
+-77.073162
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6873": {
+"dir": "AV. SAN JUAN N° 112, URB. SANTA TERESA",
+"ll": [
+-12.145274,
+-76.971812
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6874": {
+"dir": "AV. GERARDO UNGER N° 3689, MZ D LOTE 26, URB. HABILITACIÓN PANAMERICANA NORTE",
+"ll": [
+-11.989619,
+-77.057531
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6876": {
+"dir": "AV. REPUBLICA DE PANAMA N° 290",
+"ll": [
+-12.137092,
+-77.017562
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6880": {
+"dir": "AV. TOMAS VALLE N° 1981. ESQ. CALLE BAQUIJANO Y CARRILLO",
+"ll": [
+-12.009471,
+-77.087951
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6906": {
+"dir": "AV. UNIVERSITARIA NORTE NRO. 5771 - 5779, URB. SANTA ISOLINA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6914": {
+"dir": "AV. CHINCHAYSUYO 315. ESQ. CON CALLE UNO",
+"ll": [
+-11.977999,
+-77.051273
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6915": {
+"dir": "AV.TUPAC AMARU N° 3590. AA.HH EL PROGRESO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"6957": {
+"dir": "AV. LA MARINA N° 2001 ESQ. CON UNIVERSITARIA",
+"ll": [
+-12.072912,
+-77.103178
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"6960": {
+"dir": "AV. TOMAS VALLE N° 2053  URB. SAN PEDRO DE GARAGAY",
+"ll": [
+-12.009471,
+-77.087951
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6961": {
+"dir": "AV. BAUZATE Y MEZA 1387 ESQ. JR. GIRIBALDI",
+"ll": [
+-12.062028,
+-77.018635
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"6996": {
+"dir": "AV. HUAYLAS N° 2355, URB. SANTA LEONOR",
+"ll": [
+-12.175526,
+-77.017612
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7003": {
+"dir": "AV. PROLONGACION JAVIER PRADO ESTE N° 610 - URB. LA RIVIERA DE MONTERRICO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7004": {
+"dir": "JR. LUNA PIZARRO N° 696",
+"ll": [
+-12.06692,
+-77.02766
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7010": {
+"dir": "AV. MEXICO N° 1291-1295 ESQUINA CON JR. PARINACOCHAS",
+"ll": [
+-12.076773,
+-77.027492
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7026": {
+"dir": "AV. LOS HEROES N° 1366 -1372, URB. JARDIN",
+"ll": [
+-12.154552,
+-76.970787
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7038": {
+"dir": "CARRETERA CENTRAL KM. 27.5",
+"ll": [
+-11.965252,
+-76.743002
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7039": {
+"dir": "AV. ANGAMOS OESTE N° 1685",
+"ll": [
+-12.110703,
+-77.046307
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7040": {
+"dir": "AV. TUPAC AMARU KM.16,5",
+"ll": [
+-11.892164,
+-77.028395
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7041": {
+"dir": "AV. ROOSELVELT Y PARQUE ALTO CDRA 6",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7042": {
+"dir": "AV. DOS DE MAYO 1340 - 1380, URB. RISSO",
+"ll": [
+-12.091116,
+-77.032257
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7046": {
+"dir": "AV. PRIMAVERA Nº 1695 - CENTRO COMERCIAL MONTERRICO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7054": {
+"dir": "AV. ALFREDO BENAVIDES CUADRA 21",
+"ll": [
+-12.123515,
+-77.024966
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7058": {
+"dir": "JR. VIRU Nº 606",
+"ll": [
+-12.037953,
+-77.035513
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7073": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 28.3",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7075": {
+"dir": "AV. MEXICO Nº 210",
+"ll": [
+-12.076773,
+-77.027492
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7086": {
+"dir": "AV. PROLONGACION PRIMAVERA N° 1120 MZ. P LT. 1-2",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7088": {
+"dir": "AV. NICOLAS AYLLON N° 8710-8720, CARRETERA LIMA - CHOSICA, ALT. KM. 11.20 (ANTES CARRETERA CENTRAL KM. 11.5)",
+"ll": [
+-12.0646,
+-76.990437
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7089": {
+"dir": "AV. CARRETERA CENTRAL S/N KM. 2.5 VITARTE ESQ. AV. INGENIEROS URB. BUENOS AMIGOS",
+"ll": [
+-12.050843,
+-76.954532
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7096": {
+"dir": "AV. CAMINOS DEL INCA N° 110-134, SUB LOTE 8-A, MZ. Ñ. URB. SAN JUAN BAUTISTA DE VILLA - PRIMERA ETAPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7109": {
+"dir": "AV. TINGO MARIA N° 1172-1194, ESQ. CON RAUL PORRAS BARRENECHEA",
+"ll": [
+-12.143009,
+-76.945611
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7124": {
+"dir": "AV. TOMAS MARSANO N° 1008 ESQUINA CON AV. ANGAMOS",
+"ll": [
+-12.127987,
+-77.005513
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7130": {
+"dir": "AV. AREQUIPA N° 4305",
+"ll": [
+-12.116775,
+-77.029656
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7135": {
+"dir": "AV. DEL RIO Nº 110",
+"ll": [
+-12.073193,
+-77.055883
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7157": {
+"dir": "AV. NICOLAS AYLLON Nº 2237",
+"ll": [
+-12.060196,
+-76.976363
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7161": {
+"dir": "AV. CIRCUNVALACION N° 2944",
+"ll": [
+-12.086813,
+-76.983348
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7163": {
+"dir": "LOTE 6 MZ. G URB. NIEVERIA HUACHIPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7170": {
+"dir": "AV. COLONIAL N° 300 (ANTES AV. OSCAR R. BENAVIDES) ESQUINA CON JR. ASCOPE",
+"ll": [
+-12.046163,
+-77.043901
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7177": {
+"dir": "AV. EDGARDO REBAGLIATI, ESQUINA CON JR. DOMINGO CUETO CUADRA 3",
+"ll": [
+-12.080171,
+-77.039308
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7179": {
+"dir": "CARRETERA PANAMERICANA SUR KM 29.50",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7181": {
+"dir": "AV. LA MOLINA N° 1595, URB. SOL DE LA MOLINA",
+"ll": [
+-12.08616,
+-76.897529
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7188": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA N° 197-199",
+"ll": [
+-11.985049,
+-77.00726
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7247": {
+"dir": "AV. LA MOLINA N° 2880, URB. EL SAUCE DE LA RINCONADA",
+"ll": [
+-12.075134,
+-76.936071
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7251": {
+"dir": "AV. JUAN VELASCO ALVARADO N° 811-813-815 Y 817, COOP. VALLE DE SHARON",
+"ll": [
+-12.172173,
+-76.965052
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7255": {
+"dir": "AV. REVOLUCION N° 783 PRIMERA ZONA - COLLIQUE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7269": {
+"dir": "AA.HH. JOSE CARLOS MARIATEGUI MZ. S-9 LT. 4",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7276": {
+"dir": "AV. VENEZUELA NRO. 2600",
+"ll": [
+-12.056116,
+-77.058043
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7282": {
+"dir": "AV. RAMIRO PRIALE CODIGO PREDIO/PARCELA 'L', SUB LOTE 28-B, SUB LOTE 23-A, DE LA ASOCIACION DIGNIDAD NACIONAL CON FRENTE AL SUB LOTE 23-D (CARRETERA R",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7302": {
+"dir": "AV. NICOLAS AYLLÓN N° 4359",
+"ll": [
+-12.063015,
+-76.983061
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7304": {
+"dir": "COOPERATIVA VIVIENDA EL VALLE MZ. C, LOTE 25",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7309": {
+"dir": "MZ. B, LT. 5 Y 15, URB. VILLA UNIVERSITARIA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7310": {
+"dir": "AV. BOLIVAR N° 1020. ESQ CON AV. GENERAL CORDOVA",
+"ll": [
+-12.07202,
+-77.070121
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7316": {
+"dir": "AV. ANGELICA GAMARRA DE LEON VELARDE N° 1361",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7320": {
+"dir": "AV. GRAN CHIMU N° 1988 URB. ZARATE",
+"ll": [
+-12.024976,
+-76.981961
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7322": {
+"dir": "AV. NARANJAL N° 299, URB. INDUSTRIAL NARANJAL",
+"ll": [
+-11.977406,
+-77.062727
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7324": {
+"dir": "AV. HEROES DEL ALTO CENEPA N° 1502, 1504, 1506, 1510, 1514",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7417": {
+"dir": "AV. ISABEL LA CATOLICA N° 690",
+"ll": [
+-12.069989,
+-77.028229
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7454": {
+"dir": "AV. CARABAYLLO 1318 URB. LOS VIÑEDOS",
+"ll": [
+-11.95577,
+-77.05954
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7461": {
+"dir": "AV. BAUZATE Y MEZA ESQ. PROLONGACION HUAMANGA S/N",
+"ll": [
+-12.062028,
+-77.018635
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7474": {
+"dir": "ZONA MÁRTIR OLAYA MZ. 'D' LOTE 5 (ANTES: CARRETERA PANAMERICANA SUR KM. 43)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7524": {
+"dir": "CARRETERA CENTRAL KM. 2.5. LOTE 6-A1",
+"ll": [
+-12.018477,
+-76.897286
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7558": {
+"dir": "AV. RAMIRO PRIALE N° 5747 Y 5749, ASOCIACION DE PROPIETARIOS DIGNIDAD NACIONAL",
+"ll": [
+-12.020989,
+-76.928654
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7569": {
+"dir": "AV. ZARUMILLA N° 810. URB. ZARUMILLA",
+"ll": [
+-12.032322,
+-77.055018
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7708": {
+"dir": "AV. PASTOR SEVILLA, SECTOR 1 GRUPO 22-A MANZANA M LOTES 16, 17, 18 Y 19",
+"ll": [
+-12.210626,
+-76.950339
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"7709": {
+"dir": "JR. SAN CARLOS N° 1881 INTERSECCION CON AV. ANCASH",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7758": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA N° 2773-2785-2799 ESQUINA CON AV. EL SOL N° 388 - URB. SAN CARLOS",
+"ll": [
+-11.982633,
+-77.006242
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7768": {
+"dir": "AV. LOS CHANCAS 502 - 504, COOPERATIVA ANDAHUAYLAS",
+"ll": [
+-12.038237,
+-76.965028
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7800": {
+"dir": "PROLONGACIÓN AV. DEFENSORES DEL MORRO (EX HUAYLAS) N° 324-326, ESQUINA AV. JOSÉ ANTONIO LAVALLE N° 105, URB. SAN JUAN BAUTISTA DE VILLA",
+"ll": [
+-12.215447,
+-76.977129
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7806": {
+"dir": "CARRETERA ANTIGUA PANAMERICANA SUR KM. 32, CALLE LOS ROSALES, MZ. U LOTE N° 01, A.H. HUERTOS DE LURÍN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7868": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA Nº 1487 URB. LOS JARDINES DE SAN JUAN",
+"ll": [
+-11.982633,
+-77.006242
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"7897": {
+"dir": "KM. 25 DE LA CARRETERA PANAMERICANA NORTE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"7955": {
+"dir": "AV. LA MARINA N° 2185, ESQUINA AV. RIVA AGÜERO",
+"ll": [
+-12.072912,
+-77.103178
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8032": {
+"dir": "JR. CHINCHAYSUYO Nº 710",
+"ll": [
+-12.029637,
+-77.000822
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8033": {
+"dir": "JR. CERRO AZUL N° 227-233-237, URB. SAN IGNACIO DE MONTERRICO",
+"ll": [
+-12.131073,
+-76.977471
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8035": {
+"dir": "AV. AGUSTIN DE LA ROSA TORO N° 1312-1330-1334-1342-1346-1354-1358 ESQUINA CON AV. JAVIER PRADO ESTE N° 3095 URB. JACARANDA II - SECTOR CINCO",
+"ll": [
+-12.086239,
+-76.992993
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8039": {
+"dir": "AV. PROCERES DE LA INDP.Y LOS POSTES MZ.Z LTS.3-4",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8042": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA MZ. J1 LTS.24,25 Y 26",
+"ll": [
+-11.982633,
+-77.006242
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8054": {
+"dir": "AVENIDA UNIVERSITARIA NORTE MZA. C LTE. 1 URB. RESIDENCIAL COMERCIAL LOS OLIVOS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8063": {
+"dir": "AV. JAVIER PRADO ESTE S/N CUADRA 44, URB. FUNDO MONTERRICO CHICO",
+"ll": [
+-12.081638,
+-76.968074
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8065": {
+"dir": "AV. MATEO PUMACAHUA S/N. MZ. D, LOTE 1",
+"ll": [
+-12.184158,
+-76.944447
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8069": {
+"dir": "AV. SANTA ROSA N° 274",
+"ll": [
+-12.045114,
+-76.964185
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8082": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA Nº 1015 (MZ. G, LOTE 11 AL 19)",
+"ll": [
+-12.017596,
+-77.002843
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8101": {
+"dir": "AV. JAVIER PRADO ESTE Nº 1099 INTER. CON LA AV. NICOLAS ARRIOLA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8132": {
+"dir": "AV. JAVIER PRADO ESTE N° 4885, URB. CAMACHO",
+"ll": [
+-12.065807,
+-76.942624
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8153": {
+"dir": "AV. JUAN PARDO DE ZELA N° 845 - 849",
+"ll": [
+-12.080488,
+-77.030737
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8154": {
+"dir": "AV. CARLOS IZAGUIRRE ESQUINA CON AV. SANTA ROSA MZ. A LOTE 19, URB. LA FLORIDA",
+"ll": [
+-11.990966,
+-77.093744
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8157": {
+"dir": "AV. SANTIAGO DE CHUCO N° 501 ESQUINA CON AV. APURIMAC  COOPERATIVA UNIVERSAL",
+"ll": [
+-12.04272,
+-76.970848
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8176": {
+"dir": "JR. MANUEL ECHEANDIA N° 586 ESQ. CON AV. CIRCUNVALACIÓN MZ. A, LOTES 6,7 Y 8, URB. LOTIZACIÓN INDUSTRIAL EL PINO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8196": {
+"dir": "AV. PUENTE PIEDRA N° 1365",
+"ll": [
+-11.856746,
+-77.083891
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"82148": {
+"dir": "INTERSECCION AV. CENTRAL Y AV. LAS TORRES MZ. C, LOTES 8, 9, 10 Y 11, ASOC. DE VIVIENDA. SANTA MARIA DE NARANJAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"82159": {
+"dir": "AV. ANDRES AVELINO CACERES LOTE 9-10, MZ. P, AA. HH. HUAYCAN",
+"ll": [
+-12.001849,
+-76.832691
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"82208": {
+"dir": "AV. FERROCARRIL ESQUINA CON PRIMERO DE MAYO, COOPERATIVA LOS HUANCAS, MZ N, LT. 1",
+"ll": [
+-12.036202,
+-77.001315
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8222": {
+"dir": "MZ. J-10. LT. 1 - PAMPLONA ALTA SECTOR LEONCIO PRADO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8224": {
+"dir": "ESQUINA AV. ZORRITOS Y AV. TINGO MARÍA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8225": {
+"dir": "AV. NICOLAS AYLLON N° 7174, URB. PARCELACIÓN LA ESTRELLA",
+"ll": [
+-12.064333,
+-76.986775
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"82267": {
+"dir": "AV. BERTELLO MZ G LOTES 1, 2 Y 3, PROGRAMA DE VIVIENDA SAN REMO III Y LOTES 2 Y 3 DE LA MZ. B DEL PROGRAMA DE VIVIENDA FHILADELFIA IV ETAPA",
+"ll": [
+-11.996718,
+-77.112619
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8228": {
+"dir": "AV. ARGENTINA N° 1801",
+"ll": [
+-12.046163,
+-77.043901
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8235": {
+"dir": "AV. CAMINOS DEL INCA N° 194, URB. TAMBO DE MONTERRICO",
+"ll": [
+-12.138936,
+-76.984361
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"82419": {
+"dir": "AV. 25 DE ENERO (ANTES 22 DE AGOSTO) SUB LOTE 5A Y 5D ESQUINA CALLE HACIENDA URB. INFANTAS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"82460": {
+"dir": "AV. ARGENTINA Nº 1830-1858, ESQUINA CON AV. NICOLAS DUEÑAS",
+"ll": [
+-12.043844,
+-77.052195
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8247": {
+"dir": "AV. EL EJERCITO N° 412-422",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"82579": {
+"dir": "AV. NICOLAS DE PIEROLA N° 800 MZ. H-1, LOTE 16 ESQ. CON LA AV. VILLA MARIA",
+"ll": [
+-12.167394,
+-76.948229
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8267": {
+"dir": "AV. SAN DIEGO Nº 1000 Y CALLE SANTA MARIA",
+"ll": [
+-11.9532,
+-77.091599
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"82732": {
+"dir": "SEDE NAUTICA CLUB ESMERALDA PLAYA EMBAJADORES (ALTURA KM. 52, CARRETERA PANAMERICANA SUR)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"82816": {
+"dir": "AV. EL TRIUNFO S/N MZ.Q-2, LOTE 5. PARCELACION ZAPALLAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"82834": {
+"dir": "AV. ARGENTINA 898 ESQUINA CON AV. ANTONIO DE ELIZALDE",
+"ll": [
+-12.046163,
+-77.043901
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"82902": {
+"dir": "ESQ. AV. CENTRAL Y AV. CESAR VALLEJO, SECTOR 2, GRUPO 5, MZ. I, LOTES 1, 2 Y 24",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"82903": {
+"dir": "AV. GRAU N° 1308 ESQ JR. HUANUCO Nª 1101",
+"ll": [
+-12.057936,
+-77.017106
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"82985": {
+"dir": "CALLE LOS HORNOS N° 149 ESQUINA CON GERARDO UNGER  URB. INDUSTRIAL NARANJAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"83004": {
+"dir": "ESQUINA AV. PROCERES Y AV. PORTALES. MZ. V-4. LOTE 66. URB. PRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"83162": {
+"dir": "KM. 24.2 DE LA AV. TUPAC AMARU, MZ. E, LT. 09, ASOCIACIÓN DE VIVIENDA CASA HUERTA SIN NÚMERO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"83174": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 24",
+"ll": [
+-12.312072,
+-76.834108
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"83265": {
+"dir": "ANTIGUA CARRETERA PANAMERICANA SUR, KM.40, ESQ. CON AV. LOS EUCALIPTOS MZ.F LT.9 URB. PREDIO SANTA GENOVEVA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8332": {
+"dir": "GREGORIO ESCOBEDO ESQ. CON HUIRACOCHA",
+"ll": [
+-12.089047,
+-77.058706
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8336": {
+"dir": "AV. JAVIER PRADO ESTE N° 1059",
+"ll": [
+-12.088605,
+-77.01012
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"83435": {
+"dir": "AV. BAUZATE Y MEZA N° 1050",
+"ll": [
+-12.062708,
+-77.01702
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8344": {
+"dir": "AV. EL DERBY N° 118, MZ. A, LOTE 5, URB. EL DERBY",
+"ll": [
+-12.098501,
+-76.970774
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"83665": {
+"dir": "AV. PROCERES DE LA INDEPENDENCIA N° 701 - 709",
+"ll": [
+-11.982633,
+-77.006242
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"83729": {
+"dir": "AV. TANTAMAYO ESQUINA CON AV. CENTRAL, MZ. A, LOTES 3 Y 4, PROGRAMA DE VIVIENDA RESIDENCIAL, 1RA ETAPA",
+"ll": [
+-11.958464,
+-77.097787
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"83761": {
+"dir": "AV. LOS CISNES SUB LOTE 2, PARCELA PARAISO ESQ AV. RAMIRO PRIALE",
+"ll": [
+-12.02039,
+-76.935407
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"83891": {
+"dir": "MZ.A, LT. 1, PARCELA 4 DEL EX FUNDO CARAPONGO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"83926": {
+"dir": "AV. SANTA ROSA N 610, ESQUINA JR. LOS SAUCES",
+"ll": [
+-12.016154,
+-76.874913
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"83993": {
+"dir": "AV. BOLIVAR N° 425",
+"ll": [
+-12.072685,
+-77.057292
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"84090": {
+"dir": "PROLONG. AV. BUENOS AIRES N° 2499 ZAPALLAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"84522": {
+"dir": "AV. TOMAS VALLE N° 1207",
+"ll": [
+-12.012316,
+-77.07493
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"84523": {
+"dir": "AV. OSCAR R. BENAVIDES INTERSECCIÓN JR. PRESBITERO GÁSPAR HERNÁNDEZ",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"84588": {
+"dir": "AV. JAVIER PRADO ESTE MZ. O - 6 LOTE 3, ESQUINA CALLE TOULON, URB. LA RIVERA DE MONTERRICO",
+"ll": [
+-12.065807,
+-76.942624
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8465": {
+"dir": "AV. LIMA N° 3100",
+"ll": [
+-12.028927,
+-77.079821
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8479": {
+"dir": "AV. LA PAZ 1200, ESQUINA CALLE FRANCISCO DE ZELA",
+"ll": [
+-12.084015,
+-77.096207
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"84805": {
+"dir": "AV. MALECÓN CHECA EGUIGUREN N° 175-181",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"84949": {
+"dir": "AV. EL TRIUNFO N° 210",
+"ll": [
+-12.166435,
+-76.950625
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"85013": {
+"dir": "AV. SAN MARTIN KM 17.8, MZ C - LT 2 Y 3 - ASOCIACION DE VIVIENDAS LA ESPERANZA DE CIENEGUILLA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8506": {
+"dir": "AV. ANGELICA GAMARRA MZ. B, LTS. 3 Y 4 - URB. EL TREBOL III ETAPA",
+"ll": [
+-12.00643,
+-77.07286
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"85071": {
+"dir": "AV. CARLOS IZAGUIRRE 220 ESQUINA CON CALLE NAPO",
+"ll": [
+-11.989619,
+-77.057531
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"85107": {
+"dir": "AV. GUARDIA CIVIL N° 1024 MZ. B. LT 1, URB. SANTA ROSA DE SURCO",
+"ll": [
+-12.170575,
+-76.992085
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"85113": {
+"dir": "ZONA A PARC. HUERTOS DE SANTA GENOVEVA AV. ANT. PANAMERICANA SUR MZ. E LT. 1 SUB A",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8518": {
+"dir": "JR. ORBEGOSO Nº 300, ESQUINA CON JR. HUARAZ",
+"ll": [
+-12.05941,
+-77.058839
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8519": {
+"dir": "AV. NARANJAL INTERSECCION AV. CANTA CALLAO Y CALLE 11 MZ. P-3 LTS. 1,2 ,70 ,71 URB. LOS NARANJOS",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"85210": {
+"dir": "AV. LAS LOMAS MZ. Q SUB LOTE1-A - URB. ZARATE",
+"ll": [
+-12.018111,
+-76.989819
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8524": {
+"dir": "AV. MARIANO PASTOR SEV. ESQ. CON LA AV. C. VALLEJO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8538": {
+"dir": "JR. SALAVERRY N°478-480",
+"ll": [
+-12.097035,
+-77.071486
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8539": {
+"dir": "AV. LA MARINA N° 2530",
+"ll": [
+-12.077612,
+-77.089851
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8546": {
+"dir": "AV. ARGENTINA Nº 915",
+"ll": [
+-12.046981,
+-77.079549
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"85534": {
+"dir": "AV. PROCERES DE INDEPENDENCIA 2555. ESQ. CON JR. ESTRELLAS",
+"ll": [
+-12.010276,
+-77.003798
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"85669": {
+"dir": "AV. MARCO DE LA PUENTE LLANOS ESQ. CON CALLE 4 MZ. \"E\" LOTE 3B, URB. BARBADILLO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"85698": {
+"dir": "AV. NICOLAS AYLLON N° 2039",
+"ll": [
+-12.064333,
+-76.986775
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8580": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 29,5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8583": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 19.5",
+"ll": [
+-12.219884,
+-76.976768
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8586": {
+"dir": "AV. LA PAZ N° 915. ESQ. CON CALLE INCLAN",
+"ll": [
+-12.08261,
+-77.09988
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8590": {
+"dir": "NICOLAS AYLLON Nº 2274",
+"ll": [
+-11.971038,
+-76.753145
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"86022": {
+"dir": "AV. ISABEL LA CATOLICA, ESQ. JR. ABTAO Nº 1007",
+"ll": [
+-12.068693,
+-77.016935
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"86030": {
+"dir": "AV. 15 JULIO S/N. LOTES 10, 17 Y 18 ZONA K, PUEBLO JOVEN PROYECTO ESPECIAL HUAYCAN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"86060": {
+"dir": "AV. NICOLAS ARRIOLA 2400-2412-2418, ESQ. CON CALLE AGUSTIN LA ROSA TORO",
+"ll": [
+-12.071465,
+-76.994129
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"86138": {
+"dir": "AV. TOMAS VALLE, ESQUINA AV. BETA, SECCION A-1, FUNDO GARAGAY BAJO, SECTOR B",
+"ll": [
+-12.010276,
+-77.070183
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"86146": {
+"dir": "AV. NICOLAS AYLLON N° 4500, URB. LOS PORTALES DE JAVIER PRADO",
+"ll": [
+-12.063015,
+-76.983061
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"86266": {
+"dir": "AV. JAVIER PRADO ESTE N° 5411, ESQ. CON CALLE LOS ALBARICOQUES, MZ Q, LOTE 11",
+"ll": [
+-12.081638,
+-76.968074
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"86284": {
+"dir": "AV. UNIVERSITARIA SUR N° 498",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"86285": {
+"dir": "URB. SANTO DOMINGO 6TA ETAPA MZ L-2 LTS 25, 26, 27, 28, 29, 30",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"86387": {
+"dir": "CARRETERA CENTRAL KM 13.650 GLORIA BAJA",
+"ll": [
+-12.009033,
+-76.862871
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"86885": {
+"dir": "AV. NICOLAS AYLLON 4706",
+"ll": [
+-12.064333,
+-76.986775
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8698": {
+"dir": "AV.UNIVERSITARIA NORTE CUADRA 53, MZ. P,LOTES 1,2,3,4,39,40,41 Y 42",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"87014": {
+"dir": "AV. SIMÓN BOLIVAR 496 - 498, ESQUINA JR. BELGRANO 110 - 120",
+"ll": [
+-12.07202,
+-77.070121
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"87037": {
+"dir": "AV. ANDRES AVELINO CACERES ZONA L LOTE 38, 39 Y 40 DEL PUEBLO JOVEN PROYECTO ESPECIAL HUAYCAN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8705": {
+"dir": "AV. MARISCAL OSCAR R. BENAVIDES N° 1623 - 1657, URB. LA TRINIDAD",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"87228": {
+"dir": "AV. LOS VIRREYES MZ. B LT. 8-A EX FUNDO ZAVALETA",
+"ll": [
+-12.03006,
+-76.94061
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8743": {
+"dir": "ESQ. LAS PALMERAS Y ACASIAS MZ. H, LT-12 LOTIZACION ENSENADA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"87554": {
+"dir": "AV. JAVIER PRADO ESTE Nº 3160",
+"ll": [
+-12.088605,
+-77.01012
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8771": {
+"dir": "AV. NICOLAS AYLLON N° 405",
+"ll": [
+-11.965671,
+-76.739335
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"87729": {
+"dir": "AV. CANADA N° 298, ESQUINA CON JR. CARVALLO",
+"ll": [
+-12.082059,
+-77.016345
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"88039": {
+"dir": "AV. MANCO CAPAC N° 301, 305, 311, 317, 321, 333, 335 Y 337, ESQUINA CON JR. GARCIA NARANJO N° 304, 308 Y 312",
+"ll": [
+-12.06191,
+-77.029219
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8811": {
+"dir": "AV. 200 MILLAS ESQ. CON AV. MICAELA BASTIDAS, MZ. C5, LOTE 12, GRUPO RESIDENCIAL 31 SECTOR 3",
+"ll": [
+-12.23118,
+-76.932871
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8820": {
+"dir": "AV. DE LOS HEROES N° 1187 - 1189",
+"ll": [
+-12.153349,
+-76.972579
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"88228": {
+"dir": "AV. PASTOR SEVILLA MZ..B-1 LT. 01 PP.JJ. EDILBERTO RAMOS, GRUPO RESIDENCIAL 3",
+"ll": [
+-12.210626,
+-76.950339
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"88439": {
+"dir": "AV. ALFREDO MENDIOLA N° 6583  6585- 6589  6593  6597  6599, DE LOS LOTES 16 Y 17, MZ. 2E, PARCELACIÓN RESIDENCIAL SANTA LUISA II ETAPA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"88618": {
+"dir": "AV. GERARDO UNGER Nº 4885, URB NARANJAL",
+"ll": [
+-11.989619,
+-77.057531
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"8887": {
+"dir": "AV. REPUBLICA DE PANAMA N° 4361 - 4395",
+"ll": [
+-12.105964,
+-77.018833
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"89061": {
+"dir": "AV. UNIVERSITARIA ESQ. CON CALLE NN1",
+"ll": [
+-12.077436,
+-77.080558
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"89213": {
+"dir": "AV. MIGUEL GRAU, SUB LOTE 28-B, URB. SANTA CLARA",
+"ll": [
+-12.060772,
+-76.992833
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8941": {
+"dir": "AV. JAIME BAUZATE Y MEZA Nº 801 - 825",
+"ll": [
+-12.062028,
+-77.018635
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"89579": {
+"dir": "AV. LOS PROCERES N° 655 MZ. 2866 LOTE 01, URBANIZACION MONTE SAN LORENZO",
+"ll": [
+-12.157781,
+-76.989056
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8959": {
+"dir": "AV. TUPAC AMARU N° 3603 AA.HH. EL PROGRESO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"8963": {
+"dir": "AV. LOS PROCERES MZ. W, LOTE 9 CAMPOY",
+"ll": [
+-12.018348,
+-76.970563
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"8987": {
+"dir": "AV. TUPAC AMARU N° 6224 (ANTES 3242)",
+"ll": [
+-11.959441,
+-77.053713
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"89933": {
+"dir": "AV. UNIVERSITARIA NORTE Nº 5779 (ANTES Nº 5671) (ANTES AV. UNIVERSITARIA Nº 597)",
+"ll": [
+-11.946102,
+-77.060814
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9012": {
+"dir": "AV. GUILLERMO PRESCOTT Nº 202 ESQ. CALLE BARCELONA",
+"ll": [
+-12.085213,
+-77.048367
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9021": {
+"dir": "AV. CIRCUNVALACION Nº 1386",
+"ll": [
+-12.066753,
+-76.997879
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"90316": {
+"dir": "AV. TANTAMAYO CRUCE CON CALLE LLATA, MZ A, LT. 22 Y 23  URB. SOL DE NARANJAL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9039": {
+"dir": "MZ. A, LOTE 26, ASOCIACION DE VIVIENDA OJIHUA INTERSECCION DE LA AV. LOS OLIVOS (EX SANTA ROSA) CON LA AUTOPISTA CANTA CALLAO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9049": {
+"dir": "AV. REVOLUCIÓN ESQ AV. TALARA SECTOR 3 GRUPO 12 MZ. N LOTES 2, 3, 4 Y 5",
+"ll": [
+-12.239464,
+-76.920481
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"90685": {
+"dir": "AV. INDUSTRIAL N° 3491, ESQUINA CON AV. EL PACIFICO",
+"ll": [
+-11.989264,
+-77.061593
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9080": {
+"dir": "AV. ARENALES Nº 1700",
+"ll": [
+-12.080171,
+-77.039308
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9087": {
+"dir": "AV. SUCRE N° 1070",
+"ll": [
+-12.076529,
+-77.041734
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"90893": {
+"dir": "AV. PACHACUTEC, MZ. B, LOTE 1, INTERSECCION CON CALLE 6",
+"ll": [
+-12.195874,
+-76.93504
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9113": {
+"dir": "AV. JAVIER PRADO OESTE N° 1895 ESQUINA CALLE LOS CASTAÑOS",
+"ll": [
+-12.093068,
+-77.038531
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9128": {
+"dir": "AV. SAN PABLO N° 651 ESQ. CON CALLE PEDRO DE LA GASCA",
+"ll": [
+-12.067501,
+-77.009172
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9149": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 14.00 - URB. SAN JUAN",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"91891": {
+"dir": "AV. 5 DE AGOSTO (ANTES AV. LAS TORRES), MZ. B, LOTES 3 Y 4, ASOCIACION CASA HUERTA 1ERO. DE MAYO",
+"ll": [
+-11.983815,
+-76.93955
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9198": {
+"dir": "AV.UNIVERSITARIA INTERSECCION CON AV. ISABEL CHIMPU OCLLO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9199": {
+"dir": "AV. CONDORCANQUI MZ. R, LOTE 19, URB. SANTO DOMINGO 1RA ETAPA",
+"ll": [
+-11.895207,
+-77.040723
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9203": {
+"dir": "AV. REVOLUCION NRO. 1825, ESQ. JR. ICA, AA.HH. COLLIQUE",
+"ll": [
+-11.914833,
+-77.03457
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"92130": {
+"dir": "AV. MANCO CAPAC N° 1189 Y JR. FRANCIA N° 423",
+"ll": [
+-12.06191,
+-77.029219
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9220": {
+"dir": "AV. ANDRÉS ARAMBURÚ N° 904 - 908",
+"ll": [
+-12.102567,
+-77.027843
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"92272": {
+"dir": "AV. MEXICO N° 380-390, ESQUINA CON JR. LOS JACINTOS",
+"ll": [
+-12.076773,
+-77.027492
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9247": {
+"dir": "AV. BENAVIDES Y CAMINOS DEL INCA N° 2009 Y 2017, URB. LAS GARDENIAS, 3RA ETAPA",
+"ll": [
+-12.131073,
+-76.977471
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9288": {
+"dir": "AV. LAS TORRES MZ. K LOTE 6, ASOC. DIGNIDAD NACIONAL - HUACHIPA",
+"ll": [
+-12.014268,
+-76.90095
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"93140": {
+"dir": "AV. SEPARADORA INDUSTRIAL ESQUINA CON CALLE C1 AGRUPAMIENTO PACHACAMAC MZ. B1 PARCELA 3C GRUPO B LOTE 25",
+"ll": [
+-12.238568,
+-76.91283
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"93239": {
+"dir": "LOTE 4, MZ. D6, AV ALFREDO MENDIOLA N° 8050 - URB PRO SEXTO SECTOR",
+"ll": [
+-12.014484,
+-77.060673
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9329": {
+"dir": "AV. ALAMEDA SUR ESQUINA CON CALLE LOS KEROS MZ. Q LOTE 11, URB. SAN JUAN BAUTISTA DE VILLA",
+"ll": [
+-12.194994,
+-77.009439
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"93384": {
+"dir": "AV. EL SOL MZ. J-1, LT. 04, URB. LAS VERTIENTES",
+"ll": [
+-12.195874,
+-76.93504
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9343": {
+"dir": "AV. VILLA MARIA Nº 1400",
+"ll": [
+-12.154385,
+-76.932806
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9355": {
+"dir": "AV. GENERAL PEZET N° 1301",
+"ll": [
+-12.102831,
+-77.047146
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9356": {
+"dir": "AV. JOSE RIVA AGUERO N° 411",
+"ll": [
+-12.050342,
+-77.002364
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9364": {
+"dir": "AV. LA MOLINA N° 2421",
+"ll": [
+-12.079528,
+-76.950749
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9372": {
+"dir": "PANAMERICANA NORTE KM. 44, URB. SAN JOSE, MZ. N LOTE 3",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9423": {
+"dir": "AV. MARISCAL CASTILLA N° 905",
+"ll": [
+-12.135074,
+-77.007249
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9424": {
+"dir": "AV. TUPAC AMARU 10200  10202 (ALT. 18.5 KM. AV. TUPAC AMARU)",
+"ll": [
+-11.8631,
+-77.008071
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9426": {
+"dir": "SECTOR 03, GRUPO 19, MZ. M, LOTES. 1, 2, 3 Y 24",
+"ll": [
+-12.216894,
+-76.94915
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9429": {
+"dir": "AV. TUPAC AMARU ESQ. CON AV. METROPOLITANA",
+"ll": [
+-11.920635,
+-77.041489
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9432": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 33.5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"94336": {
+"dir": "AV. REVOLUCION CON AV. MARIA PARADO DE BELLIDO MZ. M, LOTES 34 Y 35 AA.HH. COLLIQUE V ZONA",
+"ll": [
+-11.914833,
+-77.03457
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9440": {
+"dir": "AV. METROPOLITANA N° 1905",
+"ll": [
+-11.940459,
+-77.067468
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"94418": {
+"dir": "AV. NICOLAS AYLLON MZ. 306, LOTES 1, 2 Y 3. ESQ. CON AV. MEXICO, URB. SAN PABLO",
+"ll": [
+-12.063211,
+-77.00215
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"94476": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 56.80",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9462": {
+"dir": "AV. NICOLAS AYLLÓN N° 2162",
+"ll": [
+-12.063015,
+-76.983061
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9464": {
+"dir": "AV. CANADA N 1189 - 1191, ESQ. CON CALLE VICTOR ALZAMORA",
+"ll": [
+-12.082152,
+-77.024027
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9466": {
+"dir": "AV. HEROES DEL ALTO CENEPA (ANTES AUTOPISTA CHILLON TRAPICHE) LOTE 57 EX FUNDO CHACRA CERRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"94684": {
+"dir": "AV. ARICA N° 580 - 590 ESQ. CON JR. JORGE CHAVEZ",
+"ll": [
+-12.05937,
+-77.045864
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9473": {
+"dir": "AV. AREQUIPA 5080 ESQ. CON ENRIQUE PALACIOS",
+"ll": [
+-12.108928,
+-77.030486
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9477": {
+"dir": "AV. EL SOL S/N, ENTRE LOS NOGALES Y LOS LAURELES, MZ. A LT.4. AA.HH. TACALA",
+"ll": [
+-12.168897,
+-77.010781
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9479": {
+"dir": "ANTIGUA PANAM.SUR KM.36.100 EX FUNDO SAN VICENTE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9484": {
+"dir": "AV. MANCO CAPAC N° 993, ESQUINA CON AV. ISABEL LA CATOLICA",
+"ll": [
+-12.06191,
+-77.029219
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9488": {
+"dir": "AV. BOLOGNESI CUADRA 8, ESQ. CON CALLE TIRAVANTI",
+"ll": [
+-12.14286,
+-77.017861
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9507": {
+"dir": "AV. ROOSEVELT N° 6471, 6475, 6479, 6481, 6483, 6485, 6489, 6491 Y AV. 28 DE JULIO N° 1541",
+"ll": [
+-12.120312,
+-77.018514
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9510": {
+"dir": "AV. EL SOL N° 278, MZ. K1 LOTE 8 PRIMER HOGAR POLICIAL ZONA 1",
+"ll": [
+-12.168199,
+-76.951282
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9511": {
+"dir": "AV. LOS PROCERES MZ. A LOTES 39,40. AA.HH. LOS JAZMINES",
+"ll": [
+-11.96989,
+-77.08026
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9512": {
+"dir": "AV. CANTA CALLAO MZ.G LT.4, URB. LOS HUERTOS DEL NARANJAL",
+"ll": [
+-11.984003,
+-77.099026
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9513": {
+"dir": "AV. HEROES DEL ALTO CENEPA N° 697, LOTIZACIÓN FUNDO CHACRA CERRO",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9514": {
+"dir": "AV. BENAVIDES 4295 - URB. HIGUERETA",
+"ll": [
+-12.131073,
+-76.977471
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9515": {
+"dir": "AV. NACIONES UNIDAS 1222 MZ. K URB. SAN RAFAEL",
+"ll": [
+-11.958544,
+-76.994638
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9518": {
+"dir": "AV. 28 DE JULIO N° 2200",
+"ll": [
+-12.063809,
+-77.033914
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9519": {
+"dir": "CARRETERA PANAMERICANA NORTE KM. 36.5",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9520": {
+"dir": "AV. OSCAR R. BENAVIDES N° 930",
+"ll": [
+-11.871753,
+-77.014133
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9521": {
+"dir": "AV. NICOLAS AYLLON S/N KM 2.8, ESQ. CON TOMAS ALVA EDISON",
+"ll": [
+-12.0646,
+-76.990437
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9524": {
+"dir": "URB. PROLIMA III ETAPA MZ. H LT. 31 - PANAMERICANA NORTE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9526": {
+"dir": "AV. LA MARINA N° 3112  URB. MARANGA CUARTA ETAPA",
+"ll": [
+-12.075317,
+-77.097077
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9527": {
+"dir": "AV. LA MARINA NO. 892",
+"ll": [
+-12.081458,
+-77.070958
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9529": {
+"dir": "AV. EL SOL Nº 101, CANTO GRANDE",
+"ll": [
+-11.985446,
+-77.003184
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9530": {
+"dir": "ANTIGUA CARRETERA PANAMERICANA SUR KM 51.8",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9536": {
+"dir": "CALLE DOMINGO ANGULO N° 131, EX. ALAMEDA DE LOS BOBOS, LT. 01 MZ. B, ESQUINA LA HUERTA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9537": {
+"dir": "AV. PETIT THOUARS N° 3929",
+"ll": [
+-12.101209,
+-77.030722
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9539": {
+"dir": "AV. BENAVIDES N° 2116",
+"ll": [
+-12.120924,
+-77.030229
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"95430": {
+"dir": "AV. LA MARINA Nº 787, ESQUINA CON JR. MARISCAL CASTILLA Nº 1650",
+"ll": [
+-12.081458,
+-77.070958
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"95538": {
+"dir": "AV. TOMAS VALLE N° 2053  URB. SAN PEDRO DE GARAGAY",
+"ll": [
+-12.009471,
+-77.087951
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"95643": {
+"dir": "AV. PERIURBANA Nº 1007 (PREDIO RURAL ZAPALLAL ALTO - EL DORADO)",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"95671": {
+"dir": "AV. UNIVERSITARIA KM.14 MZ. A1 LOTE 23 COOPERATIVA PRIMAVERA",
+"ll": [
+-11.955677,
+-77.060403
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9572": {
+"dir": "AV. LOS PROCERES DE LA INDEPENDENCIA N° 2901,MZ. I LT. 10",
+"ll": [
+-11.985049,
+-77.00726
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9573": {
+"dir": "AV. REPUBLICA DE PANAMA N° 6901-A ESQ. CON AV. MARISCAL CASTILLA",
+"ll": [
+-12.137092,
+-77.017562
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"95739": {
+"dir": "AV. ALFREDO MENDIOLA N° 6810, ESQ. CON AV. SAN MIGUEL Y CALLE SAN LUIS",
+"ll": [
+-12.023094,
+-77.058422
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9577": {
+"dir": "AV. LA MOLINA N° 1310 (EX AV. LA UNIVERSIDAD N° 210)",
+"ll": [
+-12.075134,
+-76.936071
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9583": {
+"dir": "CARRETERA PANAMERICANA SUR KM 23.5",
+"ll": [
+-12.219884,
+-76.976768
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9584": {
+"dir": "AV. AVIACION N° 3401",
+"ll": [
+-12.087664,
+-77.003546
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9592": {
+"dir": "AV. VENEZUELA CUADRA 17 CON AV. ARICA CUADRA 15",
+"ll": [
+-12.055584,
+-77.052724
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9593": {
+"dir": "AV. PRÓCERES DE LA INDEPENCIA Nº 104. URB ZARATE",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9616": {
+"dir": "AV. LIMA ESQUINA AV. MARIA REICHE, MZ. C, LOTE 17, AA.HH. VILLA LA PAZ",
+"ll": [
+-12.240841,
+-76.913537
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9622": {
+"dir": "AV. PASEO PARODI 220",
+"ll": [
+-12.091591,
+-77.030447
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9630": {
+"dir": "AV. ALFREDO MENDIOLA N° 700  704",
+"ll": [
+-12.023094,
+-77.058422
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"9635": {
+"dir": "AV. OSCAR R. BENAVIDES NO. 2398",
+"ll": [
+-11.871753,
+-77.014133
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"96518": {
+"dir": "AV. VICTOR MALASQUEZ ESQUINA CON AV. MIGUEL GRAU, SECTOR C, MANZANA C, LOTE 1, CENTRO POBLADO HUERTOS DE MANCHAY",
+"ll": [
+-12.151287,
+-76.870528
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"9652": {
+"dir": "AV. PROLONGACION PACHACUTEC N° 5295",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"96520": {
+"dir": "AV. JOSE CARLOS MARIATEGUI 1217",
+"ll": [
+-12.136396,
+-76.942752
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"96566": {
+"dir": "AV. 24 DE SETIEMBRE, MZ. G, LT 21 - ASOCIACION PROVIVIENDA CAMPOSOL",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"9659": {
+"dir": "CARRETERA PANAMERICANA SUR KM. 33 PARCELA C-14 A, PREDIO LAS SALINAS",
+"ll": [
+-12.298196,
+-76.848458
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"96646": {
+"dir": "ESQUINA AV. CORDILLERA NEGRA Y JR. VOLCAN COROPUNA MZ. E-13, LT. 5, URB. LAS DELICIAS DE VILLA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"96681": {
+"dir": "MZ. A LOTES 1, 2, 3, 4, 5 Y 6 DEL PROGRAMA DE VIVIENDA Y COMERCIO LAS PRADERAS DE PARIACHI",
+"ll": [
+-12.060587,
+-76.935228
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"96905": {
+"dir": "AV. CAMINOS DEL INCA ESQUINA CALLE LOS SINCHIS MZ. N, LOTE 19, URB. SAN JUAN BAUTISTA",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"97130": {
+"dir": "AV. SANTA CRUZ ESQUINA AV. CAJAMARQUILLA LOTE 1 Y LOTE 2, AA.HH. SANTA CRUZ DE CAJAMARQUILLA",
+"ll": [
+-11.982204,
+-77.012785
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"97176": {
+"dir": "AA. HH. EDILBERTO RAMOS, GRUPO 01, MZ A LT 2, SUB LOTE 1 4TA ETAPA URB PACHACAMAC",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"97328": {
+"dir": "AV. LOS FRUTALES N° 994, ACUMULACIÓN DE LOS LOTES 1 Y 2, MANZANA A, URBANIZACIÓN CAMINO REAL",
+"ll": [
+-12.07488,
+-76.96364
+],
+"src": "osm",
+"t": "2026-11-02"
+},
+"98095": {
+"dir": "PROLONGACIÓN AV. EL SOL MZ. I-1 LOTE 01 SUB LOTE 1A, COOPERATIVA LAS VERTIENTES",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"98168": {
+"dir": "MZ. J, LOTE 1, ASOCIACION HUERTA GRANJA EL AYLLU",
+"ll": null,
+"src": null,
+"t": "2026-11-02"
+},
+"98276": {
+"dir": "MALECON CHECA N 2599 MZ. M SUB LOTE 3-B-B URB.LOTIZACION CAMPOY PRIMERA ETAPAPOY",
+"ll": [
+-12.026597,
+-76.995996
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"99303": {
+"dir": "AV. MICAELA BASTIDAS MZ C-5, LOTE 12 DEL GRUPO 31, TECER SECTOR",
+"ll": [
+-12.227556,
+-76.934775
+],
+"src": "dir",
+"t": "2026-11-02"
+},
+"99603": {
+"dir": "AV. LA MOLINA N° 377-397 PARCELA SEMIRUSTICA LA MOLINA MZ. D PARCELA 4",
+"ll": [
+-12.060143,
+-76.961669
+],
+"src": "osm",
+"t": "2026-11-02"
+}
+}
