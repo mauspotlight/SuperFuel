@@ -109,6 +109,17 @@ select,input[type=search]{width:100%;height:44px;border-radius:12px;border:1px s
 .kpi .eyebrow .rep-logo{height:14px;display:inline-block;vertical-align:-3px;margin-left:4px;background:#fff;border-radius:5px;padding:2px 5px;box-sizing:content-box}
 .chip.old{background:var(--warn-soft);color:var(--warn)}
 .chip.fresh{background:var(--good-soft);color:var(--good)}
+.chip.km{background:var(--accent-soft);color:var(--accent)}
+.near{margin-top:10px;display:grid;gap:10px;padding:12px;border-radius:14px;background:var(--surface-2);border:1px solid var(--line)}
+.near-st{display:flex;align-items:center;gap:8px;font-size:13.5px;font-weight:600;line-height:1.35}
+.near-st.err{color:var(--bad)}
+.near-st svg{width:18px;height:18px;flex:none;color:var(--accent)}
+.near-row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.near-row .lbl{margin:0 4px 0 0}
+.near .seg button:not([aria-pressed="true"]){background:var(--surface)}
+.locbtn{display:inline-flex;align-items:center;gap:7px;height:40px;padding:0 14px;border-radius:12px;background:var(--accent);color:var(--accent-ink);font-weight:700;font-size:14px}
+.locbtn svg{width:18px;height:18px}
+.locbtn[disabled]{opacity:.6}
 .price{text-align:right;display:grid;justify-items:end;gap:1px}
 .price b{font-family:var(--display);font-weight:900;font-stretch:78%;font-size:30px;line-height:1;font-variant-numeric:tabular-nums}
 .price s{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
@@ -149,6 +160,13 @@ select,input[type=search]{width:100%;height:44px;border-radius:12px;border:1px s
       <div class="seg" id="zoneSeg" role="group" aria-label="Zona">
         <button data-zone="todo">Toda Lima</button>
         <button data-zone="uno">Un distrito</button>
+        <button data-zone="cerca">Cerca de mí</button>
+      </div>
+      <div class="near" id="nearWrap" hidden>
+        <div class="near-st" id="nearSt"></div>
+        <div class="near-row"><span class="lbl">Radio</span><div class="seg" id="radSeg" role="group" aria-label="Radio"><button data-r="2">2 km</button><button data-r="5">5 km</button><button data-r="10">10 km</button></div></div>
+        <div class="near-row"><span class="lbl">Ordenar</span><div class="seg" id="sortSeg" role="group" aria-label="Ordenar"><button data-s="precio">Más barato</button><button data-s="dist">Más cerca</button></div></div>
+        <div><button class="locbtn" id="locBtn"></button></div>
       </div>
       <div id="distWrap" style="margin-top:10px" hidden>
         <select id="distSel" aria-label="Distrito"></select>
@@ -171,7 +189,7 @@ select,input[type=search]{width:100%;height:44px;border-radius:12px;border:1px s
   <section class="list" id="list" aria-live="polite"></section>
   <button class="more" id="more" hidden>Ver más grifos</button>
 
-  <p class="foot" id="foot">Fuente: <b>Últimos precios registrados EVPC</b> de Osinergmin, que se actualiza solo cada día. Los grifos reportan sus propios precios, así que confirma en el surtidor. "Repsol" incluye solo los grifos registrados a nombre de Repsol Comercial. La antigüedad se cuenta desde el último registro del archivo.</p>
+  <p class="foot" id="foot">Fuente: <b>Últimos precios registrados EVPC</b> de Osinergmin, que se actualiza solo cada día. Los grifos reportan sus propios precios, así que confirma en el surtidor. "Repsol" incluye solo los grifos registrados a nombre de Repsol Comercial. La antigüedad se cuenta desde el último registro del archivo. Las ubicaciones se calculan a partir de la dirección con OpenStreetMap y pueden no ser exactas.</p>
 </div>
 
 <script id="data" type="application/json">__DATA__</script>
@@ -193,7 +211,7 @@ function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
 function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
 
 // estado
-const S={prod:lsGet('gl.prod')||'GR',zone:lsGet('gl.zone')==='uno'?'uno':'todo',dist:lsGet('gl.dist')||'LA MOLINA',disc:parseFloat(lsGet('gl.disc')??'2'),q:'',onlyRep:false,onlyPx:false,onlyToday:true,hideOld:false,shown:PAGE};
+const S={prod:lsGet('gl.prod')||'GR',zone:['uno','cerca'].includes(lsGet('gl.zone'))?lsGet('gl.zone'):'todo',radius:+(lsGet('gl.rad')||5),sort:lsGet('gl.sort')==='dist'?'dist':'precio',pos:null,loc:'idle',locMsg:'',dist:lsGet('gl.dist')||'LA MOLINA',disc:parseFloat(lsGet('gl.disc')??'2'),q:'',onlyRep:false,onlyPx:false,onlyToday:true,hideOld:false,shown:PAGE};
 if(!PRODS.some(p=>p[0]===S.prod)) S.prod='GR';
 S.disc=0;
 
@@ -214,13 +232,26 @@ $('#distSel').innerHTML=D.d.map(d=>`<option value="${esc(d)}">${esc(title(d))}</
 $('#distSel').value=D.d.includes(S.dist)?S.dist:D.d[0];
 
 $('#prodSeg').onclick=e=>{const b=e.target.closest('button');if(!b)return;S.prod=b.dataset.prod;lsSet('gl.prod',S.prod);S.shown=PAGE;render()};
-$('#zoneSeg').onclick=e=>{const b=e.target.closest('button');if(!b)return;S.zone=b.dataset.zone;lsSet('gl.zone',S.zone);S.shown=PAGE;render()};
+$('#zoneSeg').onclick=e=>{const b=e.target.closest('button');if(!b)return;S.zone=b.dataset.zone;lsSet('gl.zone',S.zone);S.shown=PAGE;if(S.zone==='cerca'&&!S.pos&&S.loc!=='busy')locate();else render()};
 $('#distSel').onchange=e=>{S.dist=e.target.value;lsSet('gl.dist',S.dist);S.shown=PAGE;render()};
 $('#q').oninput=e=>{S.q=e.target.value.trim();S.shown=PAGE;render()};
 $('#onlyRep').onchange=e=>{S.onlyRep=e.target.checked;S.shown=PAGE;render()};
 $('#onlyPx').onchange=e=>{S.onlyPx=e.target.checked;S.shown=PAGE;render()};
 $('#onlyToday').onchange=e=>{S.onlyToday=e.target.checked;S.shown=PAGE;render()};
 $('#more').onclick=()=>{S.shown+=PAGE;render()};
+$('#radSeg').onclick=e=>{const b=e.target.closest('button');if(!b)return;S.radius=+b.dataset.r;lsSet('gl.rad',String(S.radius));S.shown=PAGE;render()};
+$('#sortSeg').onclick=e=>{const b=e.target.closest('button');if(!b)return;S.sort=b.dataset.s;lsSet('gl.sort',S.sort);S.shown=PAGE;render()};
+$('#locBtn').onclick=()=>locate();
+function locate(){
+  if(!('geolocation' in navigator)){S.loc='err';S.locMsg='Este navegador no permite usar tu ubicación.';render();return}
+  S.loc='busy';render();
+  navigator.geolocation.getCurrentPosition(p=>{S.pos={lat:p.coords.latitude,lon:p.coords.longitude,acc:p.coords.accuracy};S.loc='ok';S.shown=PAGE;render()},
+    e=>{S.loc='err';S.locMsg=e.code===1?'No diste permiso para usar tu ubicación. En el iPhone ve a Ajustes → Privacidad y seguridad → Localización → Safari y elige "Preguntar" o "Mientras se usa".':'No se pudo obtener tu ubicación. Revisa que la localización esté activada e inténtalo otra vez.';render()},
+    {enableHighAccuracy:true,timeout:15000,maximumAge:60000});
+}
+function km(a,b,c,d){const R=6371,r=Math.PI/180,x=(c-a)*r,y=(d-b)*r,h=Math.sin(x/2)**2+Math.cos(a*r)*Math.cos(c*r)*Math.sin(y/2)**2;return 2*R*Math.asin(Math.sqrt(h))}
+const fmtKm=v=>v<1?Math.round(v*1000/10)*10+' m':v.toFixed(1).replace('.',',')+' km';
+const WITH_LL=D.s.filter(s=>s[4]!=null).length;
 
 const norm=s=>s.normalize('NFD').replace(/[̀-ͯ]/g,'').toUpperCase();
 
@@ -232,6 +263,12 @@ function rows(){
   for(const [si,price,dt] of (D.p[S.prod]||[])){
     const st=D.s[si]; const dist=D.d[st[1]];
     if(zoneSet&&!zoneSet.has(dist)) continue;
+    let d=null;
+    if(S.zone==='cerca'){
+      if(!S.pos||st[4]==null) continue;
+      d=km(S.pos.lat,S.pos.lon,st[4],st[5]);
+      if(d>S.radius) continue;
+    }
     const rep=isRep(st);
     if((S.onlyRep||S.onlyPx)&&!((S.onlyRep&&rep)||(S.onlyPx&&isPrimax(st)))) continue;
     const age=ageDays(dt);
@@ -239,9 +276,9 @@ function rows(){
     if(S.onlyToday&&age!==0) continue;
     if(q&&!norm(st[0]+' '+st[2]+' '+dist).includes(q)) continue;
     const disc=rep&&prod[2]==='gal'?S.disc:0;
-    out.push({st,dist,price,eff:Math.max(0,Math.round((price-disc)*100)/100),rep,age,dt,disc});
+    out.push({st,dist,price,eff:Math.max(0,Math.round((price-disc)*100)/100),rep,age,dt,disc,km:d});
   }
-  out.sort((a,b)=>a.eff-b.eff||a.price-b.price||a.age-b.age);
+  if(S.zone==='cerca'&&S.sort==='dist') out.sort((a,b)=>a.km-b.km||a.eff-b.eff); else out.sort((a,b)=>a.eff-b.eff||(a.km??0)-(b.km??0)||a.age-b.age);
   return out;
 }
 
@@ -262,10 +299,19 @@ function render(){
   document.querySelectorAll('#prodSeg button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.prod===S.prod));
   document.querySelectorAll('#zoneSeg button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.zone===S.zone));
   $('#distWrap').hidden=S.zone!=='uno';
+  const near=S.zone==='cerca';
+  $('#nearWrap').hidden=!near;
+  if(near){
+    document.querySelectorAll('#radSeg button').forEach(b=>b.setAttribute('aria-pressed',+b.dataset.r===S.radius));
+    document.querySelectorAll('#sortSeg button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.s===S.sort));
+    const st=$('#nearSt'); st.classList.toggle('err',S.loc==='err');
+    st.innerHTML=S.loc==='busy'?PIN+'Buscando tu ubicación…':S.loc==='err'?esc(S.locMsg):S.pos?PIN+`Usando tu ubicación${S.pos.acc>150?` (precisión aprox. ${fmtKm(S.pos.acc/1000)})`:''}. ${WITH_LL} de ${D.s.length} grifos tienen ubicación en el mapa.`:PIN+'Toca el botón para buscar grifos cerca de ti. Tu ubicación solo se usa en este celular.';
+    const lb=$('#locBtn'); lb.disabled=S.loc==='busy'; lb.innerHTML=NAV+(S.pos?'Actualizar mi ubicación':'Usar mi ubicación');
+  }
   const prod=PRODS.find(p=>p[0]===S.prod); const unit=prod[2];
 
   const R=rows();
-  const zoneTxt=S.zone==='uno'?title(S.dist):'toda Lima';
+  const zoneTxt=S.zone==='uno'?title(S.dist):near?`${S.radius} km a la redonda`:'toda Lima';
   // KPIs
   const best=R[0];
   const bestRep=R.find(r=>r.rep);
@@ -279,11 +325,12 @@ function render(){
 
   $('#listTitle').textContent=`Ranking · ${prod[1]} · ${zoneTxt}`;
   $('#count').textContent=`${R.length} resultados`;
-  if(!R.length){$('#list').innerHTML=`<div class="empty">No hay grifos con estos filtros. Prueba con otra zona, quita la búsqueda o desmarca los filtros.</div>`;$('#more').hidden=true;return}
+  if(!R.length){$('#list').innerHTML=`<div class="empty">${near&&!S.pos?'Activa tu ubicación para ver los grifos cercanos.':near?'No hay grifos con estos filtros cerca de ti. Prueba con un radio más grande o desmarca los filtros.':'No hay grifos con estos filtros. Prueba con otra zona, quita la búsqueda o desmarca los filtros.'}</div>`;$('#more').hidden=true;return}
   $('#list').innerHTML=R.slice(0,S.shown).map((r,i)=>{
     const tags=[];
     if(isPrimax(r.st)) tags.push('<span class="chip rep">'+PRIMAX_LOGO+'</span>');
     if(r.rep) tags.push(`<span class="chip rep">${REP_LOGO}${r.disc?` · −S/ ${money(r.disc)}`:''}</span>`);
+    if(r.km!=null) tags.push(`<span class="chip km">${fmtKm(r.km)}</span>`);
     tags.push(`<span class="chip">${esc(title(r.dist))}</span>`);
     tags.push(r.age>OLD_DAYS?`<span class="chip old">${ago(r.age)}</span>`:r.age<=0?`<span class="chip fresh">${ago(r.age)}</span>`:`<span class="chip">${ago(r.age)}</span>`);
     return `<article class="st ${r.rep?'isRepsol':''}"><span class="pos">${i+1}</span><div style="min-width:0"><div class="nm">${esc(stationName(r))}</div><div class="ad">${esc(title(r.st[2]))}</div><div class="tags">${tags.join('')}</div><div class="go"><a class="gm" href="${mapUrl(r)}" target="_blank" rel="noopener" aria-label="Abrir en Google Maps">${PIN}Google Maps</a><a class="wz" href="${wazeUrl(r)}" target="_blank" rel="noopener" aria-label="Abrir en Waze">${NAV}Waze</a></div></div><div class="price"><b>${money(r.eff)}</b>${r.disc?`<s>S/ ${money(r.price)}</s>`:`<span>S/ por ${unit}</span>`}</div></article>`;
@@ -294,7 +341,7 @@ function render(){
 }
 $('#repLbl').innerHTML=REP_LOGO;
 $('#pxLbl').innerHTML=PRIMAX_LOGO;
-render();
+if(S.zone==='cerca') locate(); else render();
 })();
 </script>
 
