@@ -104,6 +104,13 @@ select,input[type=search]{width:100%;height:44px;border-radius:12px;border:1px s
 .price b{font-family:var(--display);font-weight:900;font-stretch:78%;font-size:30px;line-height:1;font-variant-numeric:tabular-nums}
 .price s{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
 .price span{font-size:11.5px;color:var(--muted)}
+.go{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.go a{display:inline-flex;align-items:center;gap:7px;height:36px;padding:0 13px 0 10px;border-radius:12px;border:1px solid var(--line);background:var(--surface-2);font-size:13.5px;font-weight:700;color:var(--ink);text-decoration:none}
+.go a:hover{border-color:var(--accent)}
+.go a:active{transform:scale(.97)}
+.go svg{width:18px;height:18px;flex:none}
+.go .gm svg{color:var(--good)}
+.go .wz svg{color:var(--accent)}
 .more{height:48px;border-radius:16px;border:1.5px dashed var(--line);color:var(--muted);font-weight:600;width:100%}
 .empty{padding:28px 20px;border-radius:20px;background:var(--surface);border:1px solid var(--line);text-align:center;color:var(--muted)}
 .foot{font-size:12.5px;color:var(--muted);line-height:1.5;margin:6px 2px 0}
@@ -230,7 +237,11 @@ function rows(){
 }
 
 function ago(n){return n<=0?'Actualizado hoy':n===1?'Hace 1 día':`Hace ${n} días`}
-function mapUrl(r){return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(r.st[2]+', '+title(r.dist)+', Lima, Perú')}
+const placeQ=r=>r.st[2]+', '+title(r.dist)+', Lima, Perú';
+function mapUrl(r){return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(placeQ(r))}
+function wazeUrl(r){return 'https://waze.com/ul?q='+encodeURIComponent(placeQ(r))+'&navigate=yes'}
+const PIN='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0114 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>';
+const NAV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l18-8-8 18-2-8-8-2z"/></svg>';
 
 const LEGAL=/^(s\.?a\.?c?\.?|s\.?r\.?l\.?|e\.?i\.?r\.?l\.?|s\.?a\.?a\.?)$/i;
 function stationName(r){return title(r.st[0]).split(' ').map(w=>LEGAL.test(w)?w.toUpperCase():w).join(' ')}
@@ -262,7 +273,7 @@ function render(){
     if(r.rep) tags.push(`<span class="chip rep">Repsol${r.disc?` · −S/ ${money(r.disc)}`:''}</span>`);
     tags.push(`<span class="chip">${esc(title(r.dist))}</span>`);
     tags.push(r.age>OLD_DAYS?`<span class="chip old">${ago(r.age)}</span>`:r.age<=0?`<span class="chip fresh">${ago(r.age)}</span>`:`<span class="chip">${ago(r.age)}</span>`);
-    return `<article class="st ${r.rep?'isRepsol':''}"><span class="pos">${i+1}</span><div style="min-width:0"><div class="nm">${esc(stationName(r))}</div><div class="ad"><a href="${mapUrl(r)}" target="_blank" rel="noopener">${esc(title(r.st[2]))}</a></div><div class="tags">${tags.join('')}</div></div><div class="price"><b>${money(r.eff)}</b>${r.disc?`<s>S/ ${money(r.price)}</s>`:`<span>S/ por ${unit}</span>`}</div></article>`;
+    return `<article class="st ${r.rep?'isRepsol':''}"><span class="pos">${i+1}</span><div style="min-width:0"><div class="nm">${esc(stationName(r))}</div><div class="ad">${esc(title(r.st[2]))}</div><div class="tags">${tags.join('')}</div><div class="go"><a class="gm" href="${mapUrl(r)}" target="_blank" rel="noopener" aria-label="Abrir en Google Maps">${PIN}Google Maps</a><a class="wz" href="${wazeUrl(r)}" target="_blank" rel="noopener" aria-label="Abrir en Waze">${NAV}Waze</a></div></div><div class="price"><b>${money(r.eff)}</b>${r.disc?`<s>S/ ${money(r.price)}</s>`:`<span>S/ por ${unit}</span>`}</div></article>`;
   }).join('');
   const left=R.length-S.shown;
   $('#more').hidden=left<=0;
